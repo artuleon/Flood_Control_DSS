@@ -1,0 +1,277 @@
+Message  | Plan: 'Plan 01' (cypress.p01)
+Message  | Simulation started at: 22May2021 02:59:54 PM
+Message  | PROCESS:RasGeomWriter
+Message  | 
+Message  | Writing Geometry
+Progress | 1
+Message  | Completed Writing Geometry
+Message  | PROCESS:RASGeomPreprocess
+Message  | 	
+Message  | Geometric Preprocessor HEC-RAS 5.0.7 March 2019
+Progress | 0.2
+Progress | 0.3
+Progress | 1.035197E-03
+Progress | 2.173913E-02
+Progress | 4.244306E-02
+Progress | 0.063147
+Progress | 8.385094E-02
+Progress | 0.1045549
+Progress | 0.1252588
+Progress | 0.1459627
+Progress | 0.1666667
+Progress | 0.1873706
+Progress | 0.2080745
+Progress | 0.2287785
+Progress | 0.2494824
+Progress | 0.2701863
+Progress | 0.2908903
+Progress | 0.3115942
+Progress | 0.3322981
+Progress | 0.3530021
+Progress | 0.373706
+Progress | 0.3944099
+Progress | 0.4151139
+Progress | 0.4358178
+Progress | 0.4565217
+Progress | 0.4772257
+Progress | 0.4979296
+Progress | 0.5186335
+Progress | 0.5393375
+Progress | 0.5600414
+Progress | 0.5807453
+Progress | 0.6014493
+Progress | 0.6221532
+Progress | 0.6428571
+Progress | 0.6635611
+Progress | 0.684265
+Progress | 0.7049689
+Progress | 0.7256729
+Progress | 0.7463768
+Progress | 0.7670807
+Progress | 0.7877847
+Progress | 0.8084886
+Progress | 0.8291925
+Progress | 0.8498965
+Progress | 0.8706004
+Progress | 0.8913044
+Progress | 0.9120083
+Progress | 0.9327122
+Progress | 0.9534162
+Progress | 0.9741201
+Progress | 0.994824
+Progress | 1
+Message  | 
+Message  | Finished Processing Geometry
+Message  | 
+Message  | Starting to copy Geometry Data to Results
+Message  | Completed copying Geometry Data to Results
+Message  | 
+Message  | PROCESS:RasUnsteady
+Message  | 
+Message  | Performing Unsteady Flow Simulation  HEC-RAS 5.0.7 March 2019
+Message  | 
+Progress | 0.1
+Progress | 0.2
+Progress | 0.3
+Progress | 0.320027
+Progress | 0.3400541
+Progress | 0.3600811
+Progress | 0.3801081
+Progress | 0.4001351
+Progress | 0.4201621
+Progress | 0.4401892
+Progress | 0.4602162
+Progress | 0.4802432
+Progress | 0.5002702
+Progress | 0.5202972
+Progress | 0.5403243
+Progress | 0.5603513
+Progress | 0.5803783
+Progress | 0.6004053
+Message  | Maximum adaptive timestep = 04:00.0    Minimum adaptive timestep = 01:00.0
+Message  | Initial adaptive timestep = 01:00.0
+Message  | 
+Progress | 0.6207039
+Progress | 0.6414079
+Progress | 0.6621118
+Progress | 0.6828158
+Progress | 0.7035197
+Progress | 0.7242236
+Progress | 0.7449276
+Progress | 0.7656315
+Progress | 0.7863355
+Progress | 0.8070394
+Progress | 0.8277433
+Progress | 0.8484472
+Progress | 0.8691512
+Progress | 0.8898551
+Progress | 0.9105591
+Progress | 0.931263
+Progress | 0.9519669
+Progress | 0.9726709
+Progress | 0.9933748
+Progress | 4.960318E-05
+Progress | 2.008929E-02
+Progress | 4.012897E-02
+Progress | 6.016865E-02
+Progress | 8.020834E-02
+Progress | 0.100248
+Progress | 0.1202877
+Progress | 0.1403274
+Progress | 0.1603671
+Progress | 0.1804067
+Progress | 0.2004464
+Message  | Maximum iterations of 20              		RS	 WSEL	ERROR
+Message  | 
+Message  | 18APR2016 02:14:00  Cypress Creek   	Upper reach     	74467.9*	   50.75	   0.010
+Message  | 18APR2016 02:17:00  Cypress Creek   	Upper reach     	74383.89	   50.40	   0.016
+Message  | 18APR2016 02:25:00  Cypress Creek   	Upper reach     	74383.89	   50.56	   0.007
+Progress | 0.2204861
+Message  | 18APR2016 04:40:00  Cypress Creek   	Upper reach     	74301.1*	   50.51	   0.007
+Message  | 18APR2016 04:41:00  Cypress Creek   	Upper reach     	74301.1*	   50.58	   0.022
+Message  | 18APR2016 04:43:00  Cypress Creek   	Upper reach     	74301.1*	   50.71	   0.011
+Progress | 0.2405258
+Message  | 18APR2016 09:54:00  Cypress Creek   	Upper reach     	79686.6*	   54.68	   0.007
+Message  | 18APR2016 09:55:00  Cypress Creek   	Upper reach     	44722.2 	   37.88	   0.021
+Progress | 0.2605655
+Progress | 0.2806052
+Progress | 0.3006448
+Progress | 0.3206845
+Progress | 0.3407242
+Progress | 0.3607639
+Progress | 0.3808036
+Progress | 0.4008433
+Progress | 0.4208829
+Progress | 0.4409226
+Message  | 21APR2016 10:35:00  Little Cypress  	Tributary       	822.9122	   38.15	   0.007
+Progress | 0.4609623
+Message  | 21APR2016 17:23:00  Cypress Creek   	Upper reach     	44722.2 	   37.81	   0.073
+Message  | 21APR2016 17:24:00  Cypress Creek   	Upper reach     	44722.2 	   37.86	   0.071
+Message  | 21APR2016 17:25:00  Cypress Creek   	Upper reach     	44722.2 	   37.81	   0.072
+Message  | 21APR2016 17:26:00  Cypress Creek   	Upper reach     	44722.2 	   37.86	   0.070
+Message  | 21APR2016 17:27:00  Cypress Creek   	Upper reach     	44722.2 	   37.81	   0.072
+Message  | 21APR2016 17:28:00  Cypress Creek   	Upper reach     	44722.2 	   37.86	   0.069
+Message  | 21APR2016 17:29:00  Cypress Creek   	Upper reach     	44722.2 	   37.81	   0.071
+Message  | 21APR2016 17:30:00  Cypress Creek   	Upper reach     	44722.2 	   37.86	   0.069
+Message  | 21APR2016 17:31:00  Cypress Creek   	Upper reach     	44722.2 	   37.80	   0.071
+Message  | 21APR2016 17:32:00  Cypress Creek   	Upper reach     	44722.2 	   37.86	   0.068
+Message  | 21APR2016 17:33:00  Cypress Creek   	Upper reach     	44722.2 	   37.80	   0.070
+Message  | 21APR2016 17:34:00  Cypress Creek   	Upper reach     	44722.2 	   37.86	   0.068
+Message  | 21APR2016 17:35:00  Cypress Creek   	Upper reach     	44722.2 	   37.80	   0.070
+Message  | 21APR2016 17:36:00  Cypress Creek   	Upper reach     	44722.2 	   37.85	   0.068
+Message  | 21APR2016 17:37:00  Cypress Creek   	Upper reach     	44722.2 	   37.80	   0.070
+Message  | 21APR2016 17:38:00  Cypress Creek   	Upper reach     	44722.2 	   37.85	   0.068
+Message  | 21APR2016 17:39:00  Cypress Creek   	Upper reach     	44722.2 	   37.80	   0.070
+Message  | 21APR2016 17:40:00  Cypress Creek   	Upper reach     	44722.2 	   37.85	   0.068
+Message  | 21APR2016 17:41:00  Cypress Creek   	Upper reach     	44722.2 	   37.79	   0.070
+Message  | 21APR2016 17:42:00  Cypress Creek   	Upper reach     	44722.2 	   37.85	   0.068
+Message  | 21APR2016 17:43:00  Cypress Creek   	Upper reach     	44722.2 	   37.79	   0.070
+Message  | 21APR2016 17:44:00  Cypress Creek   	Upper reach     	44722.2 	   37.85	   0.068
+Message  | 21APR2016 17:45:00  Cypress Creek   	Upper reach     	44722.2 	   37.79	   0.070
+Message  | 21APR2016 17:46:00  Cypress Creek   	Upper reach     	44722.2 	   37.84	   0.068
+Message  | 21APR2016 17:47:00  Cypress Creek   	Upper reach     	44722.2 	   37.79	   0.070
+Message  | 21APR2016 17:48:00  Cypress Creek   	Upper reach     	44722.2 	   37.84	   0.068
+Message  | 21APR2016 17:49:00  Cypress Creek   	Upper reach     	44722.2 	   37.79	   0.070
+Message  | 21APR2016 17:50:00  Cypress Creek   	Upper reach     	44722.2 	   37.84	   0.068
+Message  | 21APR2016 17:51:00  Cypress Creek   	Upper reach     	44722.2 	   37.79	   0.071
+Progress | 0.481002
+Progress | 0.5010417
+Progress | 0.5210813
+Progress | 0.541121
+Progress | 0.5611607
+Progress | 0.5812004
+Progress | 0.60124
+Message  | 23APR2016 12:08:00  Cypress Creek   	Upper reach     	74301.1*	   50.71	   0.042
+Progress | 0.6212798
+Progress | 0.6413195
+Progress | 0.6613591
+Progress | 0.6813988
+Message  | 24APR2016 14:40:00  Cypress Creek   	Upper reach     	74383.89	   50.39	   0.017
+Progress | 0.7014385
+Progress | 0.7214782
+Progress | 0.7415178
+Progress | 0.7615575
+Progress | 0.7815973
+Progress | 0.8016369
+Progress | 0.8216766
+Progress | 0.8417163
+Progress | 0.8617559
+Progress | 0.8817956
+Progress | 0.9018353
+Progress | 0.921875
+Progress | 0.9419147
+Progress | 0.9619544
+Progress | 0.9819941
+Message  | 
+Message  | Writing Results to DSS
+Message  |  
+Message  | 
+Message  | The maximum xsec wsel error was     0.073
+Message  | Cypress Creek  Upper reach  44722.2  at  21APR2016 17:23:00
+Progress | 1
+Message  | 
+Message  | Finished Unsteady Flow Simulation
+Message  | Reading Data for Post Process
+Message  | PROCESS:RasSteady
+Progress | 0.1
+Progress | 0.2
+Message  | 	
+Message  | Running Post Processor  HEC-RAS 5.0.7 March 2019
+Progress | 0.1
+Progress | 0.3
+Progress | 0.4
+Progress | 0.5
+Progress | 0.6
+Progress | 0.7
+Progress | 0.8
+Progress | 0.9
+Progress | 1
+Progress | 0.01
+Progress | 0.04
+Progress | 0.07
+Progress | 0.09
+Progress | 0.12
+Progress | 0.14
+Progress | 0.17
+Progress | 0.2
+Progress | 0.23
+Progress | 0.26
+Progress | 0.28
+Progress | 0.3
+Progress | 0.33
+Progress | 0.36
+Progress | 0.39
+Progress | 0.41
+Progress | 0.43
+Progress | 0.46
+Progress | 0.49
+Progress | 0.52
+Progress | 0.54
+Progress | 0.57
+Progress | 0.6
+Progress | 0.63
+Progress | 0.66
+Progress | 0.69
+Progress | 0.72
+Progress | 0.75
+Progress | 0.78
+Progress | 0.8
+Progress | 0.83
+Progress | 0.85
+Progress | 0.88
+Progress | 0.91
+Progress | 0.94
+Progress | 0.97
+Progress | 1
+Message  | 
+Message  | Finished Post Processing
+Message  | 
+Message  | 
+Message  | Computations Summary
+Message  | 
+Message  | Computation Task	Time(hh:mm:ss)
+Message  | Completing Geometry(64)	       1
+Message  | Preprocessing Geometry(64)	       3
+Message  | Unsteady Flow Computations(64)	      18
+Message  | Post-Processing(64)	    1:40
+Message  | Complete Process	    2:04

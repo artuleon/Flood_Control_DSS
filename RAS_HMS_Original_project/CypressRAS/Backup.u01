@@ -1,0 +1,230 @@
+Flow Title=unsteadyflow
+Program Version=5.07
+BEGIN FILE DESCRIPTION:
+This is for DFM
+END FILE DESCRIPTION:
+Use Restart= 0 
+Initial Flow Loc=Cypress Creek   ,Upper reach     ,98005.84,0.1416
+Initial Flow Loc=Cypress Creek   ,Lower Reach     ,44381.61,0.1416
+Initial Flow Loc=Little Cypress  ,Tributary       ,30116.66,0.1416
+Boundary Location=Cypress Creek   ,Upper reach     ,98005.84,        ,                ,                ,                ,                                
+Interval=1HOUR
+Flow Hydrograph= 0 
+Flow Hydrograph QMin= 1.416 
+DSS File=..\CypressHMS\Run_1.dss
+DSS Path=//W770/FLOW/01AUG2017/1HOUR/RUN:RUN 1/
+Use DSS=True
+Use Fixed Start Time=False
+Fixed Start Date/Time=,
+Is Critical Boundary=False
+Critical Boundary Flow=
+Boundary Location=Cypress Creek   ,Lower Reach     ,1309.7  ,        ,                ,                ,                ,                                
+Friction Slope=0.001,0
+Boundary Location=Little Cypress  ,Tributary       ,30116.66,        ,                ,                ,                ,                                
+Interval=1HOUR
+Flow Hydrograph= 265 
+    .028    .028    .028    .028    .028    .028    .028    .028    .028    .028
+    .028    .028    .028    .028    .028    .028    .028    .028    .028    .028
+    .028    .028    .028    .028    .028    .028    .028    .028    .028    .028
+    .028    .028    .028    .028    .028    .028    .028    .028    .028    .028
+    .028    .028    .028    .028    .028    .028    .028    .028    .028    .028
+    .028    .028    .028    .028    .028    .028    .028    .028    .028    .028
+    .028    .028    .028    .028    .028    .028    .028    .028    .028    .028
+    .028    .028    .028    .028    .028    .028    .028    .028    .028    .028
+    .028    .028    .028    .028    .028    .028    .028    .028    .028    .028
+    .028    .028    .028    .028    .028    .028    .028    .028    .028    .028
+    .028    .028    .028    .028    .028    .028    .028    .028    .028    .028
+    .028    .028    .028    .028    .028    .028    .028    .028    .028    .028
+    .028    .028    .028    .028    .028    .028    .028    .028    .028    .028
+    .028    .028    .028    .028    .028    .028    .028    .028    .028    .028
+    .028    .028    .028    .028    .028    .028    .028    .028    .028    .028
+    .028    .028    .028    .028    .028    .028    .028    .028    .028    .028
+    .028    .028    .028    .028    .028    .028    .028    .028    .028    .028
+    .028    .028    .028    .028    .028    .028    .028    .028    .028    .028
+    .028    .028    .028    .028    .028    .028    .028    .028    .028    .028
+    .028    .028    .028    .028    .028    .028    .028    .028    .028    .028
+    .028    .028    .028    .028    .028    .028    .028    .028    .028    .028
+    .028    .028    .028    .028    .028    .028    .028    .028    .028    .028
+    .028    .028    .028    .028    .028    .028    .028    .028    .028    .028
+    .028    .028    .028    .028    .028    .028    .028    .028    .028    .028
+    .028    .028    .028    .028    .028    .028    .028    .028    .028    .028
+    .028    .028    .028    .028    .028    .028    .028    .028    .028    .028
+    .028    .028    .028    .028    .028
+Flow Hydrograph QMin= 1.416 
+DSS File=..\CypressHMS\Run_1.dss
+DSS Path=//WL-600/FLOW/01AUG2017/1HOUR/RUN:RUN 1/
+Use DSS=True
+Use Fixed Start Time=False
+Fixed Start Date/Time=,
+Is Critical Boundary=False
+Critical Boundary Flow=
+Boundary Location=Cypress Creek   ,Upper reach     ,75392.2 ,        ,                ,                ,                ,                                
+Interval=1HOUR
+Lateral Inflow Hydrograph= 0 
+DSS File=..\CypressHMS\Run_1.dss
+DSS Path=//W870/FLOW/01AUG2017/1HOUR/RUN:RUN 1/
+Use DSS=True
+Use Fixed Start Time=False
+Fixed Start Date/Time=,
+Is Critical Boundary=False
+Critical Boundary Flow=
+Boundary Location=Cypress Creek   ,Upper reach     ,70139.07,        ,                ,                ,                ,                                
+Interval=1HOUR
+Lateral Inflow Hydrograph= 0 
+DSS File=..\CypressHMS\Run_1.dss
+DSS Path=//W910/FLOW/01AUG2017/1HOUR/RUN:RUN 1/
+Use DSS=True
+Use Fixed Start Time=False
+Fixed Start Date/Time=,
+Is Critical Boundary=False
+Critical Boundary Flow=
+Boundary Location=Cypress Creek   ,Upper reach     ,70766.07,        ,                ,                ,                ,                                
+Interval=1HOUR
+Lateral Inflow Hydrograph= 0 
+DSS File=..\CypressHMS\Run_1.dss
+DSS Path=//W920/FLOW/01AUG2017/1HOUR/RUN:RUN 1/
+Use DSS=True
+Use Fixed Start Time=False
+Fixed Start Date/Time=,
+Is Critical Boundary=False
+Critical Boundary Flow=
+Boundary Location=Cypress Creek   ,Upper reach     ,69356.01,        ,                ,                ,                ,                                
+Interval=1HOUR
+Lateral Inflow Hydrograph= 0 
+DSS File=..\CypressHMS\Run_1.dss
+DSS Path=//W860/FLOW/01AUG2017/1HOUR/RUN:RUN 1/
+Use DSS=True
+Use Fixed Start Time=False
+Fixed Start Date/Time=,
+Is Critical Boundary=False
+Critical Boundary Flow=
+Boundary Location=Cypress Creek   ,Upper reach     ,67890.92,        ,                ,                ,                ,                                
+Interval=1HOUR
+Lateral Inflow Hydrograph= 0 
+DSS File=..\CypressHMS\Run_1.dss
+DSS Path=//W810/FLOW/01AUG2017/1HOUR/RUN:RUN 1/
+Use DSS=True
+Use Fixed Start Time=False
+Fixed Start Date/Time=,
+Is Critical Boundary=False
+Critical Boundary Flow=
+Boundary Location=Cypress Creek   ,Upper reach     ,66717.38,        ,                ,                ,                ,                                
+Interval=1HOUR
+Lateral Inflow Hydrograph= 0 
+DSS File=..\CypressHMS\Run_1.dss
+DSS Path=//W880/FLOW/01AUG2017/1HOUR/RUN:RUN 1/
+Use DSS=True
+Use Fixed Start Time=False
+Fixed Start Date/Time=,
+Is Critical Boundary=False
+Critical Boundary Flow=
+Boundary Location=Cypress Creek   ,Upper reach     ,64204.75,        ,                ,                ,                ,                                
+Interval=1HOUR
+Lateral Inflow Hydrograph= 0 
+DSS File=..\CypressHMS\Run_1.dss
+DSS Path=//W660/FLOW/01AUG2017/1HOUR/RUN:RUN 1/
+Use DSS=True
+Use Fixed Start Time=False
+Fixed Start Date/Time=,
+Is Critical Boundary=False
+Critical Boundary Flow=
+Boundary Location=Cypress Creek   ,Upper reach     ,61854.39,        ,                ,                ,                ,                                
+Interval=1HOUR
+Lateral Inflow Hydrograph= 0 
+DSS File=..\CypressHMS\Run_1.dss
+DSS Path=//WL-800/FLOW/01AUG2017/1HOUR/RUN:RUN 1/
+Use DSS=True
+Use Fixed Start Time=False
+Fixed Start Date/Time=,
+Is Critical Boundary=False
+Critical Boundary Flow=
+Boundary Location=Cypress Creek   ,Upper reach     ,59126.05,        ,                ,                ,                ,                                
+Interval=1HOUR
+Lateral Inflow Hydrograph= 0 
+DSS File=..\CypressHMS\Run_1.dss
+DSS Path=//WL-840/FLOW/01AUG2017/1HOUR/RUN:RUN 1/
+Use DSS=True
+Use Fixed Start Time=False
+Fixed Start Date/Time=,
+Is Critical Boundary=False
+Critical Boundary Flow=
+Boundary Location=Cypress Creek   ,Upper reach     ,52911.3*,        ,                ,                ,                ,                                
+Interval=1HOUR
+Lateral Inflow Hydrograph= 0 
+DSS File=..\CypressHMS\Run_1.dss
+DSS Path=//WL-820/FLOW/01AUG2017/1HOUR/RUN:RUN 1/
+Use DSS=True
+Use Fixed Start Time=False
+Fixed Start Date/Time=,
+Is Critical Boundary=False
+Critical Boundary Flow=
+Boundary Location=Cypress Creek   ,Upper reach     ,51366.06,        ,                ,                ,                ,                                
+Interval=1HOUR
+Lateral Inflow Hydrograph= 0 
+DSS File=..\CypressHMS\Run_1.dss
+DSS Path=//WL-760/FLOW/01AUG2017/1HOUR/RUN:RUN 1/
+Use DSS=True
+Use Fixed Start Time=False
+Fixed Start Date/Time=,
+Is Critical Boundary=False
+Critical Boundary Flow=
+Boundary Location=Cypress Creek   ,Upper reach     ,48851.7 ,        ,                ,                ,                ,                                
+Interval=1HOUR
+Lateral Inflow Hydrograph= 0 
+DSS File=..\CypressHMS\Run_1.dss
+DSS Path=//WL-780/FLOW/01AUG2017/1HOUR/RUN:RUN 1/
+Use DSS=True
+Use Fixed Start Time=False
+Fixed Start Date/Time=,
+Is Critical Boundary=False
+Critical Boundary Flow=
+Boundary Location=Cypress Creek   ,Lower Reach     ,43553.31,        ,                ,                ,                ,                                
+Interval=1HOUR
+Lateral Inflow Hydrograph= 0 
+DSS File=..\CypressHMS\Run_1.dss
+DSS Path=//WL-620/FLOW/01AUG2017/1HOUR/RUN:RUN 1/
+Use DSS=True
+Use Fixed Start Time=False
+Fixed Start Date/Time=,
+Is Critical Boundary=False
+Critical Boundary Flow=
+Boundary Location=Cypress Creek   ,Lower Reach     ,40443.27,        ,                ,                ,                ,                                
+Interval=1HOUR
+Lateral Inflow Hydrograph= 0 
+DSS File=..\CypressHMS\Run_1.dss
+DSS Path=//W750/FLOW/01AUG2017/1HOUR/RUN:RUN 1/
+Use DSS=True
+Use Fixed Start Time=False
+Fixed Start Date/Time=,
+Is Critical Boundary=False
+Critical Boundary Flow=
+Boundary Location=Cypress Creek   ,Lower Reach     ,41296.2 ,        ,                ,                ,                ,                                
+Interval=1HOUR
+Lateral Inflow Hydrograph= 0 
+DSS File=..\CypressHMS\Run_1.dss
+DSS Path=//W730/FLOW/01AUG2017/1HOUR/RUN:RUN 1/
+Use DSS=True
+Use Fixed Start Time=False
+Fixed Start Date/Time=,
+Is Critical Boundary=False
+Critical Boundary Flow=
+Boundary Location=Cypress Creek   ,Lower Reach     ,35402.42,        ,                ,                ,                ,                                
+Interval=1HOUR
+Lateral Inflow Hydrograph= 0 
+DSS File=..\CypressHMS\Run_1.dss
+DSS Path=//W670/FLOW/01AUG2017/1HOUR/RUN:RUN 1/
+Use DSS=True
+Use Fixed Start Time=False
+Fixed Start Date/Time=,
+Is Critical Boundary=False
+Critical Boundary Flow=
+Boundary Location=Cypress Creek   ,Lower Reach     ,31504.02,        ,                ,                ,                ,                                
+Interval=1HOUR
+Lateral Inflow Hydrograph= 0 
+DSS File=..\CypressHMS\Run_1.dss
+DSS Path=//W640/FLOW/01AUG2017/1HOUR/RUN:RUN 1/
+Use DSS=True
+Use Fixed Start Time=False
+Fixed Start Date/Time=,
+Is Critical Boundary=False
+Critical Boundary Flow=

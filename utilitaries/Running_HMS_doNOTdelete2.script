@@ -1,0 +1,4 @@
+from hms.model.JythonHms import *
+OpenProject("CypressHMS", "C:\Arturo_final\SOFTWARE_FINAL\DSS_Flood_2022\DSSWetland_Metric\RAS_HMS_folders\Cypress1\CypressHMS")
+Compute("Run 1")
+Exit(1)

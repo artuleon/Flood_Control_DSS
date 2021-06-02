@@ -1,0 +1,734 @@
+NOTE 10019:  Finished opening project "CypressHMS" in directory "C:\Arturo_final\SOFTWARE_FINAL\DSS_Flood_2022\DSSWetland_Metric\RAS_HMS_Original_project\CypressHMS" at time 22May2021, 14:58:35.
+NOTE 10181:  Opened control specifications "Control 1" at time 22May2021, 14:58:41.
+NOTE 40552:  Grid cell file contained 1 invalid cells for subbasin "W520".  Lost area equals 372.5 M2
+NOTE 40552:  Grid cell file contained 1 invalid cells for subbasin "W600".  Lost area equals 82.6 M2
+NOTE 40552:  Grid cell file contained 1 invalid cells for subbasin "W640".  Lost area equals 116 M2
+NOTE 40552:  Grid cell file contained 1 invalid cells for subbasin "W780".  Lost area equals 314.1 M2
+NOTE 40552:  Grid cell file contained 1 invalid cells for subbasin "W810".  Lost area equals 1,272.9 M2
+NOTE 41743:  Initial abstraction ratio for subbasin "W810" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W810" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W810" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W810" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W810" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W810" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W810" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W810" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W810" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W810" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W810" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W810" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W810" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W810" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+WARNING 41743:  Initial abstraction ratio for subbasin "W770" is ?.
+WARNING 41743:  Initial abstraction ratio for subbasin "W770" is ?.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+WARNING 41743:  Initial abstraction ratio for subbasin "W770" is ?.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W770" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W660" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W660" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W660" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W660" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W660" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W660" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W660" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W660" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W660" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W660" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W660" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W660" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W660" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W660" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W660" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W660" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W660" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W660" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W660" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W860" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W860" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W860" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W860" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W860" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W860" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W860" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W860" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W860" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W860" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W860" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W860" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W860" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W860" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W860" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W860" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W910" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W910" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W910" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W910" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W910" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W910" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W910" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W910" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W910" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W910" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W910" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W880" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W880" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W880" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W880" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W880" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W880" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W870" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W870" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W870" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W870" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W870" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W870" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W870" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W870" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W870" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W870" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W870" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W870" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W870" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W870" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W870" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W870" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W870" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W870" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W870" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W870" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W870" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W870" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W870" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W870" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W870" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W870" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W870" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W870" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W870" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W870" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W870" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W870" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W870" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W870" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W920" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W920" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W920" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W920" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W920" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W920" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W920" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W920" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W920" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W920" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W920" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W800" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W800" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W800" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W800" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W800" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W800" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W800" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W800" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W800" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W800" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W800" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W800" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W800" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W800" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W800" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W800" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W800" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W800" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W800" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W800" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W800" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W800" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W800" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W800" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W800" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W800" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W800" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W840" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W840" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W840" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W840" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W840" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W840" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W840" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W840" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W840" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W820" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W820" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W820" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W820" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W820" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W820" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W820" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W820" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W820" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W760" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W760" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W760" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W760" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W760" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W760" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W760" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W760" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W760" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W760" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W760" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W760" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W760" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W760" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W600" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W600" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W600" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W600" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W600" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W600" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W600" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W600" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W600" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W600" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W600" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W600" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W600" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W600" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W600" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W600" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W600" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W600" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W600" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W600" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W600" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W600" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W600" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W600" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W600" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W600" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W600" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W580" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W580" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W580" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W580" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W580" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W580" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W580" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W580" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W580" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W580" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W580" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W580" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W780" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W780" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W780" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W780" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W780" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W780" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W780" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W780" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W780" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W780" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W780" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W780" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W620" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W620" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W620" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W620" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W620" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W620" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W620" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W620" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W620" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W620" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W620" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W620" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W620" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W620" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W620" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W620" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W620" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W620" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W620" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W620" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W620" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W620" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W620" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W750" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W750" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W750" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W750" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W750" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W750" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W750" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W750" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W730" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W730" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W730" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W730" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W730" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W730" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W730" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W730" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W730" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W730" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W730" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W730" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W730" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W730" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W730" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W730" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W670" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W670" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W670" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W670" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W670" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W670" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W670" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W670" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W670" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W670" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W670" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W670" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W670" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W670" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W670" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W670" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W670" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W670" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W670" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W670" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W670" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W670" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W670" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W670" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W670" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W670" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W640" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W640" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W640" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W640" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W640" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W640" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W640" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W640" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W640" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W640" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W640" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W640" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W640" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W640" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W640" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W640" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W640" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W640" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W640" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W640" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W640" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W640" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W560" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W560" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W560" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W560" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W560" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W560" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W560" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W560" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W560" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W560" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W560" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W560" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W560" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W560" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W560" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W560" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W560" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W560" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W560" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W490" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W490" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W490" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W490" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W490" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W490" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W490" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W490" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W490" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W490" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W490" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W590" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W590" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W590" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W590" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W590" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W590" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W590" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W590" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W590" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W590" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W590" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W590" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W590" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W590" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W590" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W590" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W590" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W520" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W520" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W520" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W520" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W520" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W520" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W520" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W520" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W520" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W520" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W520" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W520" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W520" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W520" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W520" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W520" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W520" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W520" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W520" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W520" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W520" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W520" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W520" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W520" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W520" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W520" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W520" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W520" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W550" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W550" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W550" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W550" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W550" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W550" is 0.2.
+NOTE 41743:  Initial abstraction ratio for subbasin "W550" is 0.2.
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 15Apr2016, 02:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 15Apr2016, 03:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 15Apr2016, 04:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 15Apr2016, 05:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 15Apr2016, 06:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 15Apr2016, 07:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 15Apr2016, 08:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 15Apr2016, 09:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 15Apr2016, 10:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 15Apr2016, 11:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 15Apr2016, 12:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 15Apr2016, 13:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 15Apr2016, 14:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 15Apr2016, 15:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 15Apr2016, 16:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 15Apr2016, 17:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 15Apr2016, 18:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 15Apr2016, 19:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 15Apr2016, 20:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 15Apr2016, 21:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 15Apr2016, 22:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 15Apr2016, 23:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 16Apr2016, 00:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 16Apr2016, 01:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 16Apr2016, 02:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 16Apr2016, 03:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 16Apr2016, 04:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 16Apr2016, 05:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 16Apr2016, 06:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 16Apr2016, 07:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 16Apr2016, 08:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 16Apr2016, 09:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 16Apr2016, 10:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 16Apr2016, 11:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 16Apr2016, 12:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 16Apr2016, 13:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 16Apr2016, 14:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 16Apr2016, 15:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 16Apr2016, 16:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 16Apr2016, 17:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 16Apr2016, 18:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 16Apr2016, 19:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 16Apr2016, 20:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 16Apr2016, 21:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 16Apr2016, 22:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 16Apr2016, 23:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 17Apr2016, 00:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 17Apr2016, 01:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 17Apr2016, 02:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 17Apr2016, 03:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 17Apr2016, 04:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 17Apr2016, 05:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 17Apr2016, 06:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 17Apr2016, 07:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 17Apr2016, 08:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 17Apr2016, 09:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 17Apr2016, 10:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 17Apr2016, 11:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 17Apr2016, 12:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 17Apr2016, 13:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 17Apr2016, 14:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 17Apr2016, 15:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 17Apr2016, 16:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 17Apr2016, 17:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 17Apr2016, 18:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 17Apr2016, 19:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 17Apr2016, 20:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 17Apr2016, 21:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 17Apr2016, 22:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 17Apr2016, 23:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 18Apr2016, 00:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 18Apr2016, 01:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 18Apr2016, 02:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 18Apr2016, 03:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 18Apr2016, 04:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 18Apr2016, 05:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 18Apr2016, 06:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 18Apr2016, 07:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 18Apr2016, 08:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 18Apr2016, 09:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 18Apr2016, 10:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 18Apr2016, 11:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 18Apr2016, 12:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 18Apr2016, 13:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 18Apr2016, 14:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 18Apr2016, 15:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 18Apr2016, 16:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 18Apr2016, 17:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 18Apr2016, 18:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 18Apr2016, 19:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 18Apr2016, 20:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 18Apr2016, 21:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 18Apr2016, 22:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 18Apr2016, 23:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 19Apr2016, 00:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 19Apr2016, 01:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 19Apr2016, 02:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 19Apr2016, 03:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 19Apr2016, 04:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 19Apr2016, 05:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 19Apr2016, 06:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 19Apr2016, 07:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 19Apr2016, 08:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 19Apr2016, 09:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 19Apr2016, 10:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 19Apr2016, 11:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 19Apr2016, 12:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 19Apr2016, 13:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 19Apr2016, 14:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 19Apr2016, 15:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 19Apr2016, 16:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 19Apr2016, 17:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 19Apr2016, 18:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 19Apr2016, 19:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 19Apr2016, 20:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 19Apr2016, 21:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 19Apr2016, 22:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 19Apr2016, 23:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 20Apr2016, 00:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 20Apr2016, 01:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 20Apr2016, 02:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 20Apr2016, 03:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 20Apr2016, 04:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 20Apr2016, 05:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 20Apr2016, 06:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 20Apr2016, 07:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 20Apr2016, 08:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 20Apr2016, 09:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 20Apr2016, 10:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 20Apr2016, 11:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 20Apr2016, 12:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 20Apr2016, 13:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 20Apr2016, 14:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 20Apr2016, 15:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 20Apr2016, 16:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 20Apr2016, 17:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 20Apr2016, 18:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 20Apr2016, 19:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 20Apr2016, 20:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 20Apr2016, 21:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 20Apr2016, 22:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 20Apr2016, 23:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 21Apr2016, 00:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 21Apr2016, 01:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 21Apr2016, 02:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 21Apr2016, 03:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 21Apr2016, 04:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 21Apr2016, 05:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 21Apr2016, 06:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 21Apr2016, 07:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 21Apr2016, 08:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 21Apr2016, 09:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 21Apr2016, 10:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 21Apr2016, 11:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 21Apr2016, 12:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 21Apr2016, 13:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 21Apr2016, 14:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 21Apr2016, 15:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 21Apr2016, 16:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 21Apr2016, 17:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 21Apr2016, 18:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 21Apr2016, 19:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 21Apr2016, 20:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 21Apr2016, 21:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 21Apr2016, 22:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 21Apr2016, 23:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 22Apr2016, 00:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 22Apr2016, 01:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 22Apr2016, 02:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 22Apr2016, 03:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 22Apr2016, 04:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 22Apr2016, 05:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 22Apr2016, 06:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 22Apr2016, 07:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 22Apr2016, 08:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 22Apr2016, 09:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 22Apr2016, 10:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 22Apr2016, 11:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 22Apr2016, 12:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 22Apr2016, 13:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 22Apr2016, 14:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 22Apr2016, 15:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 22Apr2016, 16:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 22Apr2016, 17:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 22Apr2016, 18:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 22Apr2016, 19:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 22Apr2016, 20:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 22Apr2016, 21:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 22Apr2016, 22:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 22Apr2016, 23:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 23Apr2016, 00:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 23Apr2016, 01:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 23Apr2016, 02:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 23Apr2016, 03:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 23Apr2016, 04:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 23Apr2016, 05:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 23Apr2016, 06:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 23Apr2016, 07:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 23Apr2016, 08:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 23Apr2016, 09:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 23Apr2016, 10:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 23Apr2016, 11:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 23Apr2016, 12:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 23Apr2016, 13:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 23Apr2016, 14:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 23Apr2016, 15:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 23Apr2016, 16:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 23Apr2016, 17:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 23Apr2016, 18:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 23Apr2016, 19:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 23Apr2016, 20:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 23Apr2016, 21:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 23Apr2016, 22:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 23Apr2016, 23:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 24Apr2016, 00:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 24Apr2016, 01:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 24Apr2016, 02:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 24Apr2016, 03:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 24Apr2016, 04:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 24Apr2016, 05:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 24Apr2016, 06:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 24Apr2016, 07:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 24Apr2016, 08:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 24Apr2016, 09:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 24Apr2016, 10:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 24Apr2016, 11:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 24Apr2016, 12:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 24Apr2016, 13:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 24Apr2016, 14:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 24Apr2016, 15:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 24Apr2016, 16:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 24Apr2016, 17:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 24Apr2016, 18:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 24Apr2016, 19:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 24Apr2016, 20:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 24Apr2016, 21:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 24Apr2016, 22:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 24Apr2016, 23:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 25Apr2016, 00:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 25Apr2016, 01:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 25Apr2016, 02:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 25Apr2016, 03:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 25Apr2016, 04:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 25Apr2016, 05:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 25Apr2016, 06:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 25Apr2016, 07:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 25Apr2016, 08:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 25Apr2016, 09:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 25Apr2016, 10:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 25Apr2016, 11:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 25Apr2016, 12:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 25Apr2016, 13:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 25Apr2016, 14:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 25Apr2016, 15:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 25Apr2016, 16:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 25Apr2016, 17:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 25Apr2016, 18:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 25Apr2016, 19:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 25Apr2016, 20:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 25Apr2016, 21:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 25Apr2016, 22:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 25Apr2016, 23:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 26Apr2016, 00:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 26Apr2016, 01:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 26Apr2016, 02:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 26Apr2016, 03:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 26Apr2016, 04:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 26Apr2016, 05:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 26Apr2016, 06:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 26Apr2016, 07:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 26Apr2016, 08:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 26Apr2016, 09:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 26Apr2016, 10:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 26Apr2016, 11:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 26Apr2016, 12:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 26Apr2016, 13:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 26Apr2016, 14:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 26Apr2016, 15:00 for gridded subbasin "W770".
+WARNING 40503:  Missing precipitation set to zero for 1 of 50 grid cells at 26Ap

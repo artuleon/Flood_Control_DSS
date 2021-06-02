@@ -1,0 +1,27 @@
+Project: CypressHMS
+     Description: this is for HECHMS 4.3
+     Version: 4.3
+     Filepath Separator: \
+     DSS File Name: CypressHMS.dss
+     Time Zone ID: America/New_York
+End:
+
+Precipitation: Met 1
+     Filename: Met_1.met
+     Description: 
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 03:00
+End:
+
+Basin: Basin 1
+     Filename: Basin_1.basin
+     Description: Cypress HMS model
+     Last Modified Date: 10 May 2021
+     Last Modified Time: 14:35
+End:
+
+Control: Control 1
+     FileName: Control_1.control
+     Description: 
+End:
+

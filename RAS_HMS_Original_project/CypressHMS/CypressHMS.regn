@@ -1,0 +1,13 @@
+Grid Region Manager: CypressHMS
+     Version: 4.3
+     Filepath Separator: \
+End:
+
+Grid Region: Grid Region 1
+     GridRegionType: GeoHMS
+     Description: 
+     File Name: HMS\HMS.mod
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 03:06:14
+End:
+

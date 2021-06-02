@@ -1,0 +1,39 @@
+Grid Manager: CypressHMS
+     Version: 4.3
+     Filepath Separator: \
+End:
+
+Grid: GridRainfall
+     Grid Type: Precipitation
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 03:00:59
+     Reference Height Units: Meters
+     Reference Height: 10.0
+     Data Source Type: External DSS
+     Variant: Variant-1
+       Last Variant Modified Date: 27 April 2021
+       Last Variant Modified Time: 03:00:59
+       Default Variant: Yes
+       DSS File Name: data\2016 PDIR.dss
+       DSS Pathname: /UTM14/CYPRESS/PRECIP/01JAN2016:0000/01JAN2016:2400/PROJECTED/
+     End Variant: Variant-1
+     Use Lookup Table: No
+End:
+
+Grid: GridCN
+     Grid Type: Curve Number
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 03:00:45
+     Reference Height Units: Meters
+     Reference Height: 10.0
+     Data Source Type: External DSS
+     Variant: Variant-1
+       Last Variant Modified Date: 27 April 2021
+       Last Variant Modified Time: 03:00:45
+       Default Variant: Yes
+       DSS File Name: data\GridCN.dss
+       DSS Pathname: /UTM14/CYPRESS/CURVE NUMBER///LINLONG/
+     End Variant: Variant-1
+     Use Lookup Table: No
+End:
+

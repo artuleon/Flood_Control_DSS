@@ -1,0 +1,2205 @@
+Basin: Basin 1
+     Description: Cypress HMS model
+     Last Modified Date: 7 April 2021
+     Last Modified Time: 16:30:52
+     Version: 4.3
+     Filepath Separator: \
+     Unit System: Metric
+     Grid Cell File: C:\HECHMS\HMS\HMS.mod
+     Missing Flow To Zero: No
+     Enable Flow Ratio: No
+     Compute Local Flow At Junctions: No
+
+     Enable Sediment Routing: No
+
+     Enable Quality Routing: No
+End:
+
+Subbasin: W810
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 03:07:15
+     Canvas X: 805994.2672040928
+     Canvas Y: 3321397.490643136
+     Label X: 16.0
+     Label Y: 16.0
+     Area: 13.8384
+     Downstream: J176
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: Simple
+     Initial Surface Storage Percent: 20
+     Surface Storage Capacity: 4
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate: Gridded SCS
+     Curve Number Grid: GridCN
+     Potential Retention Scale Factor: 1.0
+     Initial Abstraction Ratio: 0.2
+
+     Transform: Modified Clark
+     Time of Concentration: 20.85
+     Storage Coefficient: 43.58
+     Grid Region Name: Grid Region 1
+     Grid Area Name: W810
+
+     Baseflow: Monthly Constant
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+End:
+
+Subbasin: W770
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 03:07:15
+     Canvas X: 797520.8701082026
+     Canvas Y: 3325082.8563272436
+     Label X: 16.0
+     Label Y: 16.0
+     Area: 118.78
+     Downstream: J185
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: Simple
+     Initial Surface Storage Percent: 20
+     Surface Storage Capacity: 4
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate: Gridded SCS
+     Curve Number Grid: GridCN
+     Potential Retention Scale Factor: 1.0
+     Initial Abstraction Ratio: 0.2
+
+     Transform: Modified Clark
+     Time of Concentration: 26.70
+     Storage Coefficient: 55.82
+     Grid Region Name: Grid Region 1
+     Grid Area Name: W770
+
+     Baseflow: Monthly Constant
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+End:
+
+Subbasin: W660
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 03:07:15
+     Canvas X: 802279.0367507365
+     Canvas Y: 3328332.236799822
+     Label X: 16.0
+     Label Y: 16.0
+     Area: 25.336
+     Downstream: J198
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: Simple
+     Initial Surface Storage Percent: 20
+     Surface Storage Capacity: 4
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate: Gridded SCS
+     Curve Number Grid: GridCN
+     Potential Retention Scale Factor: 1.0
+     Initial Abstraction Ratio: 0.2
+
+     Transform: Modified Clark
+     Time of Concentration: 18.98
+     Storage Coefficient: 39.63
+     Grid Region Name: Grid Region 1
+     Grid Area Name: W660
+
+     Baseflow: Monthly Constant
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+End:
+
+Subbasin: W860
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 03:07:15
+     Canvas X: 804807.8290280232
+     Canvas Y: 3318981.3942725305
+     Label X: 16.0
+     Label Y: 16.0
+     Area: 25.142
+     Observed Hydrograph Gage: 8068720
+     Downstream: J201
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: Simple
+     Initial Surface Storage Percent: 20
+     Surface Storage Capacity: 4
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate: Gridded SCS
+     Curve Number Grid: GridCN
+     Potential Retention Scale Factor: 1.0
+     Initial Abstraction Ratio: 0.2
+
+     Transform: Modified Clark
+     Time of Concentration: 18.38
+     Storage Coefficient: 38.40
+     Grid Region Name: Grid Region 1
+     Grid Area Name: W860
+
+     Baseflow: Monthly Constant
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+End:
+
+Subbasin: W910
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 03:07:15
+     Canvas X: 802317.9280000003
+     Canvas Y: 3319052.6699
+     Label X: 16.0
+     Label Y: 16.0
+     Area: 21.5046
+     Observed Hydrograph Gage: 8068720
+     Downstream: J221
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: Simple
+     Initial Surface Storage Percent: 20
+     Surface Storage Capacity: 4
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate: Gridded SCS
+     Curve Number Grid: GridCN
+     Potential Retention Scale Factor: 1.0
+     Initial Abstraction Ratio: 0.2
+
+     Transform: Modified Clark
+     Time of Concentration: 15.66
+     Storage Coefficient: 32.76
+     Grid Region Name: Grid Region 1
+     Grid Area Name: W910
+
+     Baseflow: Monthly Constant
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+End:
+
+Subbasin: W880
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 03:07:15
+     Canvas X: 807127.9774000002
+     Canvas Y: 3316611.5907000005
+     Label X: 16.0
+     Label Y: 16.0
+     Area: 5.2776
+     Downstream: J198
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: Simple
+     Initial Surface Storage Percent: 20
+     Surface Storage Capacity: 4
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate: Gridded SCS
+     Curve Number Grid: GridCN
+     Potential Retention Scale Factor: 1.0
+     Initial Abstraction Ratio: 0.2
+
+     Transform: Modified Clark
+     Time of Concentration: 12.24
+     Storage Coefficient: 25.61
+     Grid Region Name: Grid Region 1
+     Grid Area Name: W880
+
+     Baseflow: Monthly Constant
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+End:
+
+Subbasin: W870
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 03:07:15
+     Canvas X: 797299.8794047551
+     Canvas Y: 3314659.460972408
+     Label X: 16.0
+     Label Y: 16.0
+     Area: 71.946
+     Downstream: J228
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: Simple
+     Initial Surface Storage Percent: 20
+     Surface Storage Capacity: 4
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate: Gridded SCS
+     Curve Number Grid: GridCN
+     Potential Retention Scale Factor: 1.0
+     Initial Abstraction Ratio: 0.2
+
+     Transform: Modified Clark
+     Time of Concentration: 23.62
+     Storage Coefficient: 49.37
+     Grid Region Name: Grid Region 1
+     Grid Area Name: W870
+
+     Baseflow: Monthly Constant
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+End:
+
+Subbasin: W920
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 03:07:15
+     Canvas X: 803296.4046999998
+     Canvas Y: 3314413.248299999
+     Label X: 16.0
+     Label Y: 16.0
+     Area: 15.176
+     Observed Hydrograph Gage: 8068720
+     Downstream: J221
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: Simple
+     Initial Surface Storage Percent: 20
+     Surface Storage Capacity: 4
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate: Gridded SCS
+     Curve Number Grid: GridCN
+     Potential Retention Scale Factor: 1.0
+     Initial Abstraction Ratio: 0.2
+
+     Transform: Modified Clark
+     Time of Concentration: 16.79
+     Storage Coefficient: 35.06
+     Grid Region Name: Grid Region 1
+     Grid Area Name: W920
+
+     Baseflow: Monthly Constant
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+End:
+
+Junction: J176
+     Description: Generic junction
+     Last Modified Date: 4 February 2021
+     Last Modified Time: 19:59:13
+     Canvas X: 808048.8658999996
+     Canvas Y: 3317534.2749000005
+     Label X: 16.0
+     Label Y: 16.0
+     Downstream: R360
+End:
+
+Junction: J185
+     Description: Generic junction
+     Last Modified Date: 4 February 2021
+     Last Modified Time: 19:59:13
+     Canvas X: 800458.8658999996
+     Canvas Y: 3314744.2749000005
+     Label X: 16.0
+     Label Y: 16.0
+     Downstream: R460
+End:
+
+Junction: J198
+     Description: Generic junction
+     Last Modified Date: 31 March 2021
+     Last Modified Time: 02:31:29
+     Canvas X: 808921.4425330227
+     Canvas Y: 3317989.7244108114
+     Label X: 16.0
+     Label Y: 16.0
+     Computation Point: Yes
+     Observed Hydrograph Gage: 8068720
+     Downstream: R340
+End:
+
+Junction: J201
+     Description: Generic junction
+     Last Modified Date: 4 February 2021
+     Last Modified Time: 19:59:13
+     Canvas X: 807388.8658999996
+     Canvas Y: 3317294.2749000005
+     Label X: 16.0
+     Label Y: 16.0
+     Downstream: R400
+End:
+
+Junction: J221
+     Description: Generic junction
+     Last Modified Date: 4 February 2021
+     Last Modified Time: 19:59:13
+     Canvas X: 805588.8658999996
+     Canvas Y: 3315284.2749000005
+     Label X: 16.0
+     Label Y: 16.0
+     Downstream: R410
+End:
+
+Junction: J228
+     Description: Generic junction
+     Last Modified Date: 4 February 2021
+     Last Modified Time: 19:59:13
+     Canvas X: 803728.8658999996
+     Canvas Y: 3312914.2749000005
+     Label X: 16.0
+     Label Y: 16.0
+     Downstream: R450
+End:
+
+Reach: R340
+     Last Modified Date: 22 April 2021
+     Last Modified Time: 20:33:02
+     Canvas X: 815903.8756220168
+     Canvas Y: 3319358.2863474656
+     From Canvas X: 808921.4425330227
+     From Canvas Y: 3317989.7244108114
+     Label X: 16.0
+     Label Y: 16.0
+     Downstream: J248
+
+     Route: Lag
+     Initial Variable: Combined Inflow
+     Lag: 286.50
+     Channel Loss: Constant
+     Channel Loss Flow Rate: 0.1
+     Channel Loss Fraction: 0.125
+     End Channel Loss:
+End:
+
+Reach: R360
+     Last Modified Date: 7 April 2021
+     Last Modified Time: 15:56:12
+     Canvas X: 808921.4425330227
+     Canvas Y: 3317989.7244108114
+     From Canvas X: 808048.8658999996
+     From Canvas Y: 3317534.2749000005
+     Label X: 16.0
+     Label Y: 16.0
+     Observed Hydrograph Gage: 8068720
+     Downstream: J198
+
+     Route: Lag
+     Initial Variable: Combined Inflow
+     Lag: 37.08
+     Channel Loss: Constant
+     Channel Loss Flow Rate: 0.1
+     Channel Loss Fraction: 0.125
+     End Channel Loss:
+End:
+
+Reach: R400
+     Last Modified Date: 7 April 2021
+     Last Modified Time: 15:56:12
+     Canvas X: 808048.8658999996
+     Canvas Y: 3317534.2749000005
+     From Canvas X: 807388.8658999996
+     From Canvas Y: 3317294.2749000005
+     Label X: 16.0
+     Label Y: 16.0
+     Downstream: J176
+
+     Route: Lag
+     Initial Variable: Combined Inflow
+     Lag: 35.24
+     Channel Loss: Constant
+     Channel Loss Flow Rate: 0.1
+     Channel Loss Fraction: 0.125
+     End Channel Loss:
+End:
+
+Reach: R410
+     Last Modified Date: 7 April 2021
+     Last Modified Time: 15:56:12
+     Canvas X: 807388.8658999996
+     Canvas Y: 3317294.2749000005
+     From Canvas X: 805588.8658999996
+     From Canvas Y: 3315284.2749000005
+     Label X: 16.0
+     Label Y: 16.0
+     Downstream: J201
+
+     Route: Lag
+     Initial Variable: Combined Inflow
+     Lag: 152.53
+     Channel Loss: Constant
+     Channel Loss Flow Rate: 0.1
+     Channel Loss Fraction: 0.125
+     End Channel Loss:
+End:
+
+Reach: R450
+     Last Modified Date: 7 April 2021
+     Last Modified Time: 15:56:12
+     Canvas X: 805588.8658999996
+     Canvas Y: 3315284.2749000005
+     From Canvas X: 803728.8658999996
+     From Canvas Y: 3312914.2749000005
+     Label X: 16.0
+     Label Y: 16.0
+     Downstream: J221
+
+     Route: Lag
+     Initial Variable: Combined Inflow
+     Lag: 140.93
+     Channel Loss: Constant
+     Channel Loss Flow Rate: 0.1
+     Channel Loss Fraction: 0.125
+     End Channel Loss:
+End:
+
+Reach: R460
+     Last Modified Date: 7 April 2021
+     Last Modified Time: 15:56:12
+     Canvas X: 803728.8658999996
+     Canvas Y: 3312914.2749000005
+     From Canvas X: 800458.8658999996
+     From Canvas Y: 3314744.2749000005
+     Label X: 16.0
+     Label Y: 16.0
+     Downstream: J228
+
+     Route: Lag
+     Initial Variable: Combined Inflow
+     Lag: 178.02
+     Channel Loss: Constant
+     Channel Loss Flow Rate: 0.1
+     Channel Loss Fraction: 0.125
+     End Channel Loss:
+End:
+
+Subbasin: W800
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 03:07:15
+     Canvas X: 810813.5947492544
+     Canvas Y: 3321090.1820202162
+     From Canvas X: 811357.9926737736
+     From Canvas Y: 3321360.503549833
+     Area: 50.330
+     Downstream: WL-390
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: Simple
+     Initial Surface Storage Percent: 20
+     Surface Storage Capacity: 4
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate: Gridded SCS
+     Curve Number Grid: GridCN
+     Potential Retention Scale Factor: 1.0
+     Initial Abstraction Ratio: 0.2
+
+     Transform: Modified Clark
+     Time of Concentration: 12.35
+     Storage Coefficient: 45.32
+     Grid Region Name: Grid Region 1
+     Grid Area Name: W800
+
+     Baseflow: Monthly Constant
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+End:
+
+Reservoir: WL-390
+     Last Modified Date: 10 May 2021
+     Last Modified Time: 14:35:13
+     Canvas X: 812888.330518737
+     Canvas Y: 3320749.1513056047
+     From Canvas X: 812888.330518737
+     From Canvas Y: 3320749.1513056047
+     Downstream: J248
+
+     Route: Controlled Outflow
+     Routing Curve: Elevation-Storage
+     Initial Elevation: 0.8
+     Elevation-Storage Table: Table 390
+     Adaptive Control: On
+     Main Tailwater Condition: None
+     Auxiliary Tailwater Condition: None
+
+     Spillway: Broad-Crested Spillway
+     Spillway Outlet: Main
+     Spillway Crest Length: 300
+     Spillway Crest Elevation: 1
+     Spillway Coefficient: 2.63
+     End Spillway:
+
+     Release: Gage Release
+     Release Outlet: Main
+     Release Gage Name: Gage 390
+     End Release:
+
+     Evaporation Method: Zero Evaporation
+     End Evaporation:
+End:
+
+Junction: J248
+     Description: Generic junction
+     Last Modified Date: 31 March 2021
+     Last Modified Time: 02:39:47
+     Canvas X: 815903.8756220168
+     Canvas Y: 3319358.2863474656
+     Label X: 16.0
+     Label Y: 16.0
+     Downstream: R290
+End:
+
+Reach: R290
+     Last Modified Date: 7 April 2021
+     Last Modified Time: 15:56:12
+     Canvas X: 816869.82163264
+     Canvas Y: 3318747.8494915785
+     From Canvas X: 815903.8756220168
+     From Canvas Y: 3319358.2863474656
+     Label X: 16.0
+     Label Y: 16.0
+     Downstream: J179
+
+     Route: Lag
+     Initial Variable: Combined Inflow
+     Lag: 48.23
+     Channel Loss: Constant
+     Channel Loss Flow Rate: 0.1
+     Channel Loss Fraction: 0.125
+     End Channel Loss:
+End:
+
+Subbasin: W840
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 03:07:15
+     Canvas X: 814749.3251401703
+     Canvas Y: 3317049.997603554
+     Label X: 16.0
+     Label Y: 16.0
+     Area: 11.0808
+     Downstream: WL-420
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: Simple
+     Initial Surface Storage Percent: 20
+     Surface Storage Capacity: 4
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate: Gridded SCS
+     Curve Number Grid: GridCN
+     Potential Retention Scale Factor: 1.0
+     Initial Abstraction Ratio: 0.2
+
+     Transform: Modified Clark
+     Time of Concentration: 8.62
+     Storage Coefficient: 31.76
+     Grid Region Name: Grid Region 1
+     Grid Area Name: W840
+
+     Baseflow: Monthly Constant
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+End:
+
+Reservoir: WL-420
+     Last Modified Date: 10 May 2021
+     Last Modified Time: 14:35:03
+     Canvas X: 815828.2478884098
+     Canvas Y: 3317478.983074011
+     From Canvas X: 815735.9011399569
+     From Canvas Y: 3317458.7064037398
+     Downstream: J179
+
+     Route: Controlled Outflow
+     Routing Curve: Elevation-Storage
+     Initial Elevation: 0.8
+     Elevation-Storage Table: Table 420
+     Adaptive Control: On
+     Main Tailwater Condition: None
+     Auxiliary Tailwater Condition: None
+
+     Spillway: Broad-Crested Spillway
+     Spillway Outlet: Main
+     Spillway Crest Length: 300
+     Spillway Crest Elevation: 1
+     Spillway Coefficient: 2.63
+     End Spillway:
+
+     Release: Gage Release
+     Release Outlet: Main
+     Release Gage Name: Gage 420
+     End Release:
+
+     Evaporation Method: Zero Evaporation
+     End Evaporation:
+End:
+
+Junction: J179
+     Description: Generic junction
+     Last Modified Date: 31 March 2021
+     Last Modified Time: 02:43:29
+     Canvas X: 816869.82163264
+     Canvas Y: 3318747.8494915785
+     Label X: 16.0
+     Label Y: 16.0
+     Computation Point: Yes
+     Observed Hydrograph Gage: 8068740
+     Downstream: R320
+End:
+
+Reach: R320
+     Last Modified Date: 7 April 2021
+     Last Modified Time: 15:56:12
+     Canvas X: 820978.8658999996
+     Canvas Y: 3319214.2749000005
+     From Canvas X: 816869.82163264
+     From Canvas Y: 3318747.8494915785
+     Label X: 16.0
+     Label Y: 16.0
+     Downstream: J173
+
+     Route: Lag
+     Initial Variable: Combined Inflow
+     Lag: 192.40
+     Channel Loss: Constant
+     Channel Loss Flow Rate: 0.1
+     Channel Loss Fraction: 0.125
+     End Channel Loss:
+End:
+
+Subbasin: W820
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 03:07:15
+     Canvas X: 818163.2034637404
+     Canvas Y: 3319767.568307979
+     Label X: 16.0
+     Label Y: 16.0
+     Area: 15.045
+     Downstream: WL-410
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: Simple
+     Initial Surface Storage Percent: 20
+     Surface Storage Capacity: 4
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate: Gridded SCS
+     Curve Number Grid: GridCN
+     Potential Retention Scale Factor: 1.0
+     Initial Abstraction Ratio: 0.2
+
+     Transform: Modified Clark
+     Time of Concentration: 14.12
+     Storage Coefficient: 26.55
+     Grid Region Name: Grid Region 1
+     Grid Area Name: W820
+
+     Baseflow: Monthly Constant
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+End:
+
+Subbasin: W760
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 03:07:15
+     Canvas X: 818257.8934737982
+     Canvas Y: 3322772.5297384593
+     Label X: 16.0
+     Label Y: 16.0
+     Area: 20.589
+     Downstream: WL-400
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: Simple
+     Initial Surface Storage Percent: 20
+     Surface Storage Capacity: 4
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate: Gridded SCS
+     Curve Number Grid: GridCN
+     Potential Retention Scale Factor: 1.0
+     Initial Abstraction Ratio: 0.2
+
+     Transform: Modified Clark
+     Time of Concentration: 16.80
+     Storage Coefficient: 31.58
+     Grid Region Name: Grid Region 1
+     Grid Area Name: W760
+
+     Baseflow: Monthly Constant
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+End:
+
+Reservoir: WL-400
+     Last Modified Date: 10 May 2021
+     Last Modified Time: 14:34:39
+     Canvas X: 819275.2532687678
+     Canvas Y: 3321978.822244105
+     From Canvas X: 819275.2532687678
+     From Canvas Y: 3321978.822244105
+     Downstream: J173
+
+     Route: Controlled Outflow
+     Routing Curve: Elevation-Storage
+     Initial Elevation: 0.8
+     Elevation-Storage Table: Table 400
+     Adaptive Control: On
+     Main Tailwater Condition: None
+     Auxiliary Tailwater Condition: None
+
+     Spillway: Broad-Crested Spillway
+     Spillway Outlet: Main
+     Spillway Crest Length: 300
+     Spillway Crest Elevation: 1
+     Spillway Coefficient: 2.63
+     End Spillway:
+
+     Release: Gage Release
+     Release Outlet: Main
+     Release Gage Name: Gage 400
+     End Release:
+
+     Evaporation Method: Zero Evaporation
+     End Evaporation:
+End:
+
+Reservoir: WL-410
+     Last Modified Date: 10 May 2021
+     Last Modified Time: 14:34:55
+     Canvas X: 819051.7558771423
+     Canvas Y: 3319616.9264611234
+     From Canvas X: 819075.3222691815
+     From Canvas Y: 3318566.1455070404
+     Downstream: J173
+
+     Route: Controlled Outflow
+     Routing Curve: Elevation-Storage
+     Initial Elevation: 0.8
+     Elevation-Storage Table: Table 410
+     Adaptive Control: On
+     Main Tailwater Condition: None
+     Auxiliary Tailwater Condition: None
+
+     Spillway: Broad-Crested Spillway
+     Spillway Outlet: Main
+     Spillway Crest Length: 300
+     Spillway Crest Elevation: 1
+     Spillway Coefficient: 2.63
+     End Spillway:
+
+     Release: Gage Release
+     Release Outlet: Main
+     Release Gage Name: Gage 410
+     End Release:
+
+     Evaporation Method: Zero Evaporation
+     End Evaporation:
+End:
+
+Junction: J173
+     Description: Generic junction
+     Last Modified Date: 31 March 2021
+     Last Modified Time: 14:45:38
+     Canvas X: 820978.8658999996
+     Canvas Y: 3319214.2749000005
+     Label X: 16.0
+     Label Y: 16.0
+     Downstream: R310
+End:
+
+Reach: R310
+     Last Modified Date: 7 April 2021
+     Last Modified Time: 15:56:12
+     Canvas X: 826198.8658999996
+     Canvas Y: 3319634.2749000005
+     From Canvas X: 820978.8658999996
+     From Canvas Y: 3319214.2749000005
+     Label X: 16.0
+     Label Y: 16.0
+     Downstream: J182
+
+     Route: Lag
+     Initial Variable: Combined Inflow
+     Lag: 263.32
+     Channel Loss: Constant
+     Channel Loss Flow Rate: 0.1
+     Channel Loss Fraction: 0.125
+     End Channel Loss:
+End:
+
+Subbasin: W600
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 03:07:15
+     Canvas X: 808509.1005843211
+     Canvas Y: 3327652.369083709
+     Label X: 16.0
+     Label Y: 16.0
+     Area: 60.832
+     Downstream: WL-300
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: Simple
+     Initial Surface Storage Percent: 20
+     Surface Storage Capacity: 4
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate: Gridded SCS
+     Curve Number Grid: GridCN
+     Potential Retention Scale Factor: 1.0
+     Initial Abstraction Ratio: 0.2
+
+     Transform: Modified Clark
+     Time of Concentration: 24.38
+     Storage Coefficient: 43.16
+     Grid Region Name: Grid Region 1
+     Grid Area Name: W600
+
+     Baseflow: Monthly Constant
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+End:
+
+Reservoir: WL-300
+     Description: Wetland in Subbasin W600
+     Last Modified Date: 10 May 2021
+     Last Modified Time: 14:34:13
+     Canvas X: 810712.6873467669
+     Canvas Y: 3326467.6321516563
+     From Canvas X: 810712.6873467669
+     From Canvas Y: 3326467.6321516563
+     Downstream: J208
+
+     Route: Controlled Outflow
+     Routing Curve: Elevation-Storage
+     Initial Elevation: 0.8
+     Elevation-Storage Table: Table 300
+     Adaptive Control: On
+     Main Tailwater Condition: None
+     Auxiliary Tailwater Condition: None
+
+     Spillway: Broad-Crested Spillway
+     Spillway Outlet: Main
+     Spillway Crest Length: 300
+     Spillway Crest Elevation: 1
+     Spillway Coefficient: 2.63
+     End Spillway:
+
+     Release: Gage Release
+     Release Outlet: Main
+     Release Gage Name: Gage 300
+     End Release:
+
+     Evaporation Method: Zero Evaporation
+     End Evaporation:
+End:
+
+Subbasin: W580
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 03:07:15
+     Canvas X: 813354.4838331277
+     Canvas Y: 3330091.7723153615
+     Label X: 16.0
+     Label Y: 16.0
+     Area: 16.9344
+     Observed Hydrograph Gage: 8068780
+     Downstream: WL-310
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: Simple
+     Initial Surface Storage Percent: 20
+     Surface Storage Capacity: 4
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate: Gridded SCS
+     Curve Number Grid: GridCN
+     Potential Retention Scale Factor: 1.0
+     Initial Abstraction Ratio: 0.2
+
+     Transform: Modified Clark
+     Time of Concentration: 9.55
+     Storage Coefficient: 24.05
+     Grid Region Name: Grid Region 1
+     Grid Area Name: W580
+
+     Baseflow: Monthly Constant
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+End:
+
+Reservoir: WL-310
+     Last Modified Date: 10 May 2021
+     Last Modified Time: 14:34:22
+     Canvas X: 813332.2525116948
+     Canvas Y: 3328853.8064650833
+     From Canvas X: 813112.5947284333
+     From Canvas Y: 3328886.7551325844
+     Downstream: J208
+
+     Route: Controlled Outflow
+     Routing Curve: Elevation-Storage
+     Initial Elevation: 0.8
+     Elevation-Storage Table: Table 310
+     Adaptive Control: On
+     Main Tailwater Condition: None
+     Auxiliary Tailwater Condition: None
+
+     Spillway: Broad-Crested Spillway
+     Spillway Outlet: Main
+     Spillway Crest Length: 300
+     Spillway Crest Elevation: 1
+     Spillway Coefficient: 2.63
+     End Spillway:
+
+     Release: Gage Release
+     Release Outlet: Main
+     Release Gage Name: Gage 310
+     End Release:
+
+     Evaporation Method: Zero Evaporation
+     End Evaporation:
+End:
+
+Junction: J208
+     Description: Generic junction
+     Last Modified Date: 31 March 2021
+     Last Modified Time: 02:31:29
+     Canvas X: 814424.9060278167
+     Canvas Y: 3326629.896884279
+     Label X: 16.0
+     Label Y: 16.0
+     Computation Point: Yes
+     Observed Hydrograph Gage: 8068780
+     Downstream: R250
+End:
+
+Reach: R250
+     Last Modified Date: 22 April 2021
+     Last Modified Time: 22:23:59
+     Canvas X: 826198.8658999996
+     Canvas Y: 3319634.2749000005
+     From Canvas X: 814424.9060278167
+     From Canvas Y: 3326629.896884279
+     Label X: 16.0
+     Label Y: 16.0
+     Downstream: J182
+
+     Route: Lag
+     Initial Variable: Combined Inflow
+     Lag: 592.99
+     Channel Loss: Constant
+     Channel Loss Flow Rate: 0.1
+     Channel Loss Fraction: 0.125
+     End Channel Loss:
+End:
+
+Subbasin: W780
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 03:07:15
+     Canvas X: 822774.2369267588
+     Canvas Y: 3320297.024103864
+     Label X: 16.0
+     Label Y: 16.0
+     Area: 17.7165
+     Downstream: WL-380
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: Simple
+     Initial Surface Storage Percent: 20
+     Surface Storage Capacity: 4
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate: Gridded SCS
+     Curve Number Grid: GridCN
+     Potential Retention Scale Factor: 1.0
+     Initial Abstraction Ratio: 0.2
+
+     Transform: Modified Clark
+     Time of Concentration: 16.09
+     Storage Coefficient: 30.25
+     Grid Region Name: Grid Region 1
+     Grid Area Name: W780
+
+     Baseflow: Monthly Constant
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+End:
+
+Subbasin: W620
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 03:07:15
+     Canvas X: 820288.0398097008
+     Canvas Y: 3325321.2488153935
+     Label X: 16.0
+     Label Y: 16.0
+     Area: 41.787
+     Downstream: WL-330
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: Simple
+     Initial Surface Storage Percent: 20
+     Surface Storage Capacity: 4
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate: Gridded SCS
+     Curve Number Grid: GridCN
+     Potential Retention Scale Factor: 1.0
+     Initial Abstraction Ratio: 0.2
+
+     Transform: Modified Clark
+     Time of Concentration: 19.07
+     Storage Coefficient: 35.83
+     Grid Region Name: Grid Region 1
+     Grid Area Name: W620
+
+     Baseflow: Monthly Constant
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+     Monthly rate: 0.01
+End:
+
+Reservoir: WL-330
+     Last Modified Date: 10 May 2021
+     Last Modified Time: 14:34:32
+     Canvas X: 822108.8058330109
+     Canvas Y: 3324450.397435967
+     From Canvas X: 822108.8058330109
+     From Canvas Y: 3324450.397435967
+     Downstream: J182
+
+     Route: Controlled Outflow
+     Routing Curve: Elevation-Storage
+     Initial Elevation: 0.8
+     Elevation-Storage Table: Table 330
+     Adaptive Control: On
+     Main Tailwater Condition: None
+     Auxiliary Tailwater Condition: None
+
+     Spillway: Broad-Crested Spillway
+     Spillway Outlet: Main
+     Spillway Crest Length: 300
+     Spillway Crest Elevation: 1
+     Spillway Coefficient: 2.63
+     End Spillway:
+
+     Release: Gage Release
+     Release Outlet: Main
+     Release Gage Name: Gage 330
+     End Release:
+
+     Evaporation Method: Zero Evaporation
+     End Evaporation:
+End:
+
+Reservoir: WL-380
+     Last Modified Date: 10 May 2021
+     Last Modified Time: 14:34:47
+     Canvas X: 823360.9906811756
+     Canvas Y: 3319808.2265878725
+     From Canvas X: 823360.9906811756
+     From Canvas Y: 3319808.2265878725
+     Downstream: J182
+
+     Route: Controlled Outflow
+     Routing Curve: Elevation-Storage
+     Initial Elevation: 0.8
+     Elevation-Storage Table: Table 380
+     Adaptive Control: On
+     Main Tailwater Condition: None
+     Auxiliary Tailwater Condition: None
+
+     Spillway: Broad-Crested Spillway
+     Spillway Outlet: Main
+     Spillway Crest Length: 300
+     Spillway Crest Elevation: 1
+     Spillway Coefficient: 2.63
+     End Spillway:
+
+     Release: Gage Release
+     Release Outlet: Main
+     Release Gage Name: Gage 380
+     End Release:
+
+     Evaporation Method: Zero Evaporation
+     End Evaporation:
+End:
+
+Junction: J182
+     Description: Generic junction
+     Last Modified Date: 23 April 2021
+     Last Modified Time: 19:03:38
+     Canvas X: 826198.8658999996
+     Canvas Y: 3319634.2749000005
+     Label X: 16.0
+     Label Y: 16.0
+     Computation Point: Yes
+     Downstream: R280
+End:
+
+Reach: R280
+     Last Modified Date: 7 April 2021
+     Last Modified Time: 15:56:12
+     Canvas X: 829669.964946735
+     Canvas Y: 3322004.049903173
+     From Canvas X: 826198.8658999996
+     From Canvas Y: 3319634.2749000005
+     Label X: 16.0
+     Label Y: 16.0
+     Observed Hydrograph Gage: 8068800
+     Downstream: J190
+
+     Route: Lag
+     Initial Variable: Combined Inflow
+     Lag: 117.79
+     Channel Loss: Constant
+     Channel Loss Flow Rate: 0.1
+     Channel Loss Fraction: 0.05
+     End Channel Loss:
+End:
+
+Subbasin: W750
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 03:07:15
+     Canvas X: 828673.2175465364
+     Canvas Y: 3319909.8294305326
+     Label X: 16.0
+     Label Y: 16.0
+     Area: 12.602
+     Downstream: J190
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: Simple
+     Initial Surface Storage Percent: 20
+     Surface Storage Capacity: 4
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate: Gridded SCS
+     Curve Number Grid: GridCN
+     Potential Retention Scale Factor: 1.0
+     Initial Abstraction Ratio: 0.2
+
+     Transform: Modified Clark
+     Time of Concentration: 6.65
+     Storage Coefficient: 31.37
+     Grid Region Name: Grid Region 1
+     Grid Area Name: W750
+
+     Baseflow: Monthly Constant
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+End:
+
+Subbasin: W730
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 03:07:15
+     Canvas X: 825642.4375999998
+     Canvas Y: 3325766.6075
+     Label X: 16.0
+     Label Y: 16.0
+     Area: 31.333
+     Downstream: J190
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: Simple
+     Initial Surface Storage Percent: 20
+     Surface Storage Capacity: 4
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate: Gridded SCS
+     Curve Number Grid: GridCN
+     Potential Retention Scale Factor: 1.0
+     Initial Abstraction Ratio: 0.2
+
+     Transform: Modified Clark
+     Time of Concentration: 11.30
+     Storage Coefficient: 53.40
+     Grid Region Name: Grid Region 1
+     Grid Area Name: W730
+
+     Baseflow: Monthly Constant
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+End:
+
+Junction: J190
+     Description: Generic junction
+     Last Modified Date: 18 February 2021
+     Last Modified Time: 03:58:42
+     Canvas X: 829669.964946735
+     Canvas Y: 3322004.049903173
+     Label X: 16.0
+     Label Y: 16.0
+     Observed Hydrograph Gage: 8068800
+     Downstream: R240
+End:
+
+Junction: J241
+     Description: Generic junction
+     Last Modified Date: 4 February 2021
+     Last Modified Time: 19:59:13
+     Canvas X: 835048.8658999996
+     Canvas Y: 3323924.2749000005
+     Label X: 16.0
+     Label Y: 16.0
+     Downstream: R180
+End:
+
+Junction: J243
+     Description: Generic junction
+     Last Modified Date: 4 February 2021
+     Last Modified Time: 19:59:13
+     Canvas X: 831868.8658999996
+     Canvas Y: 3322694.2749000005
+     Label X: 16.0
+     Label Y: 16.0
+     Downstream: R220
+End:
+
+Reach: R180
+     Last Modified Date: 7 April 2021
+     Last Modified Time: 15:56:12
+     Canvas X: 837928.8658999996
+     Canvas Y: 3325454.2749000005
+     From Canvas X: 835048.8658999996
+     From Canvas Y: 3323924.2749000005
+     Label X: 16.0
+     Label Y: 16.0
+     Downstream: J195
+
+     Route: Lag
+     Initial Variable: Combined Inflow
+     Lag: 82.37
+     Channel Loss: Constant
+     Channel Loss Flow Rate: 0.1
+     Channel Loss Fraction: 0.05
+     End Channel Loss:
+End:
+
+Reach: R220
+     Last Modified Date: 7 April 2021
+     Last Modified Time: 15:56:12
+     Canvas X: 835048.8658999996
+     Canvas Y: 3323924.2749000005
+     From Canvas X: 831868.8658999996
+     From Canvas Y: 3322694.2749000005
+     Label X: 16.0
+     Label Y: 16.0
+     Downstream: J241
+
+     Route: Lag
+     Initial Variable: Combined Inflow
+     Lag: 88.42
+     Channel Loss: Constant
+     Channel Loss Flow Rate: 0.1
+     Channel Loss Fraction: 0.05
+     End Channel Loss:
+End:
+
+Reach: R240
+     Last Modified Date: 7 April 2021
+     Last Modified Time: 15:56:12
+     Canvas X: 831868.8658999996
+     Canvas Y: 3322694.2749000005
+     From Canvas X: 829669.964946735
+     From Canvas Y: 3322004.049903173
+     Label X: 16.0
+     Label Y: 16.0
+     Downstream: J243
+
+     Route: Lag
+     Initial Variable: Combined Inflow
+     Lag: 69.70
+     Channel Loss: Constant
+     Channel Loss Flow Rate: 0.1
+     Channel Loss Fraction: 0.05
+     End Channel Loss:
+End:
+
+Subbasin: W670
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 03:07:15
+     Canvas X: 832357.1628712277
+     Canvas Y: 3325796.697482902
+     Label X: 16.0
+     Label Y: 16.0
+     Area: 51.764
+     Downstream: J195
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: Simple
+     Initial Surface Storage Percent: 20
+     Surface Storage Capacity: 4
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate: Gridded SCS
+     Curve Number Grid: GridCN
+     Potential Retention Scale Factor: 1.0
+     Initial Abstraction Ratio: 0.2
+
+     Transform: Modified Clark
+     Time of Concentration: 13.55
+     Storage Coefficient: 64.01
+     Grid Region Name: Grid Region 1
+     Grid Area Name: W670
+
+     Baseflow: Monthly Constant
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+End:
+
+Subbasin: W640
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 03:07:15
+     Canvas X: 834656.5986000001
+     Canvas Y: 3329586.3388
+     Label X: 16.0
+     Label Y: 16.0
+     Area: 44.371
+     Downstream: J195
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: Simple
+     Initial Surface Storage Percent: 20
+     Surface Storage Capacity: 4
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate: Gridded SCS
+     Curve Number Grid: GridCN
+     Potential Retention Scale Factor: 1.0
+     Initial Abstraction Ratio: 0.2
+
+     Transform: Modified Clark
+     Time of Concentration: 13.33
+     Storage Coefficient: 62.98
+     Grid Region Name: Grid Region 1
+     Grid Area Name: W640
+
+     Baseflow: Monthly Constant
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+End:
+
+Junction: J195
+     Description: Generic junction
+     Last Modified Date: 4 February 2021
+     Last Modified Time: 19:59:13
+     Canvas X: 837928.8658999996
+     Canvas Y: 3325454.2749000005
+     Label X: 16.0
+     Label Y: 16.0
+     Downstream: R150
+End:
+
+Reach: R150
+     Last Modified Date: 22 April 2021
+     Last Modified Time: 00:39:48
+     Canvas X: 842646.7851215489
+     Canvas Y: 3328562.9766380847
+     From Canvas X: 837928.8658999996
+     From Canvas Y: 3325454.2749000005
+     Label X: 16.0
+     Label Y: 16.0
+     Downstream: J216
+
+     Route: Lag
+     Initial Variable: Combined Inflow
+     Lag: 103.10
+     Channel Loss: Constant
+     Channel Loss Flow Rate: 0.1
+     Channel Loss Fraction: 0.05
+     End Channel Loss:
+End:
+
+Subbasin: W560
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 03:07:15
+     Canvas X: 839326.2838000003
+     Canvas Y: 3326279.6479
+     Label X: 16.0
+     Label Y: 16.0
+     Area: 26.382
+     Downstream: J216
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: Simple
+     Initial Surface Storage Percent: 20
+     Surface Storage Capacity: 4
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate: Gridded SCS
+     Curve Number Grid: GridCN
+     Potential Retention Scale Factor: 1.0
+     Initial Abstraction Ratio: 0.2
+
+     Transform: Modified Clark
+     Time of Concentration: 13.79
+     Storage Coefficient: 65.17
+     Grid Region Name: Grid Region 1
+     Grid Area Name: W560
+
+     Baseflow: Monthly Constant
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+End:
+
+Subbasin: W490
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 03:07:15
+     Canvas X: 839659.7529586565
+     Canvas Y: 3331531.5799336904
+     Label X: 16.0
+     Label Y: 16.0
+     Area: 19.1934
+     Downstream: J216
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: Simple
+     Initial Surface Storage Percent: 20
+     Surface Storage Capacity: 4
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate: Gridded SCS
+     Curve Number Grid: GridCN
+     Potential Retention Scale Factor: 1.0
+     Initial Abstraction Ratio: 0.2
+
+     Transform: Modified Clark
+     Time of Concentration: 11.34
+     Storage Coefficient: 53.56
+     Grid Region Name: Grid Region 1
+     Grid Area Name: W490
+
+     Baseflow: Monthly Constant
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+     Monthly rate: 0.12
+End:
+
+Junction: J216
+     Description: Generic junction
+     Last Modified Date: 22 April 2021
+     Last Modified Time: 01:59:02
+     Canvas X: 842646.7851215489
+     Canvas Y: 3328562.9766380847
+     Label X: 16.0
+     Label Y: 16.0
+     Computation Point: Yes
+     Downstream: R50
+End:
+
+Junction: J236
+     Description: Generic junction
+     Last Modified Date: 4 February 2021
+     Last Modified Time: 21:27:38
+     Canvas X: 845608.8658999996
+     Canvas Y: 3328334.2749000005
+     Label X: 16.0
+     Label Y: 16.0
+     Observed Hydrograph Gage: 8069000
+     Downstream: R60
+End:
+
+Reach: R50
+     Last Modified Date: 22 April 2021
+     Last Modified Time: 00:39:48
+     Canvas X: 845608.8658999996
+     Canvas Y: 3328334.2749000005
+     From Canvas X: 842646.7851215489
+     From Canvas Y: 3328562.9766380847
+     Label X: 16.0
+     Label Y: 16.0
+     Observed Hydrograph Gage: 8069000
+     Downstream: J236
+
+     Route: Lag
+     Initial Variable: Combined Inflow
+     Lag: 91.44
+     Channel Loss: None
+End:
+
+Reach: R60
+     Last Modified Date: 7 April 2021
+     Last Modified Time: 15:55:16
+     Canvas X: 852178.8658999996
+     Canvas Y: 3327584.2749000005
+     From Canvas X: 845608.8658999996
+     From Canvas Y: 3328334.2749000005
+     Label X: 16.0
+     Label Y: 16.0
+     Downstream: J211
+
+     Route: Lag
+     Initial Variable: Combined Inflow
+     Lag: 239.76
+     Channel Loss: None
+End:
+
+Subbasin: W590
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 03:07:15
+     Canvas X: 848540.1095000003
+     Canvas Y: 3324911.0746999998
+     Label X: 16.0
+     Label Y: 16.0
+     Area: 31.951
+     Downstream: J211
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: Simple
+     Initial Surface Storage Percent: 20
+     Surface Storage Capacity: 4
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate: Gridded SCS
+     Curve Number Grid: GridCN
+     Potential Retention Scale Factor: 1.0
+     Initial Abstraction Ratio: 0.2
+
+     Transform: Modified Clark
+     Time of Concentration: 10.70
+     Storage Coefficient: 34.80
+     Grid Region Name: Grid Region 1
+     Grid Area Name: W590
+
+     Baseflow: Monthly Constant
+     Monthly rate: 0.1
+     Monthly rate: 0.1
+     Monthly rate: 0.1
+     Monthly rate: 0.1
+     Monthly rate: 0.1
+     Monthly rate: 0.1
+     Monthly rate: 0.1
+     Monthly rate: 0.1
+     Monthly rate: 0.1
+     Monthly rate: 0.1
+     Monthly rate: 0.1
+     Monthly rate: 0.1
+End:
+
+Subbasin: W520
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 03:07:15
+     Canvas X: 846485.1031
+     Canvas Y: 3329960.1477000006
+     Label X: 16.0
+     Label Y: 16.0
+     Area: 59.362
+     Downstream: J211
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: Simple
+     Initial Surface Storage Percent: 20
+     Surface Storage Capacity: 4
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate: Gridded SCS
+     Curve Number Grid: GridCN
+     Potential Retention Scale Factor: 1.0
+     Initial Abstraction Ratio: 0.2
+
+     Transform: Modified Clark
+     Time of Concentration: 19.38
+     Storage Coefficient: 62.93
+     Grid Region Name: Grid Region 1
+     Grid Area Name: W520
+
+     Baseflow: Monthly Constant
+     Monthly rate: 0.1
+     Monthly rate: 0.1
+     Monthly rate: 0.1
+     Monthly rate: 0.1
+     Monthly rate: 0.1
+     Monthly rate: 0.1
+     Monthly rate: 0.1
+     Monthly rate: 0.1
+     Monthly rate: 0.1
+     Monthly rate: 0.1
+     Monthly rate: 0.1
+     Monthly rate: 0.1
+End:
+
+Junction: J211
+     Description: Generic junction
+     Last Modified Date: 4 February 2021
+     Last Modified Time: 19:59:13
+     Canvas X: 852178.8658999996
+     Canvas Y: 3327584.2749000005
+     Label X: 16.0
+     Label Y: 16.0
+     Downstream: R70
+End:
+
+Reach: R70
+     Last Modified Date: 7 April 2021
+     Last Modified Time: 15:55:16
+     Canvas X: 855808.8658999996
+     Canvas Y: 3328139.2749000005
+     From Canvas X: 852178.8658999996
+     From Canvas Y: 3327584.2749000005
+     Label X: 16.0
+     Label Y: 16.0
+     Downstream: Outlet1
+
+     Route: Lag
+     Initial Variable: Combined Inflow
+     Lag: 151.92
+     Channel Loss: None
+End:
+
+Subbasin: W550
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 03:07:15
+     Canvas X: 853966.6354610086
+     Canvas Y: 3327190.3741451544
+     Label X: 16.0
+     Label Y: 16.0
+     Area: 12.426
+     Downstream: Outlet1
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: Simple
+     Initial Surface Storage Percent: 20
+     Surface Storage Capacity: 4
+     Surface Albedo: 0.20
+     End Surface:
+
+     LossRate: Gridded SCS
+     Curve Number Grid: GridCN
+     Potential Retention Scale Factor: 1.0
+     Initial Abstraction Ratio: 0.2
+
+     Transform: Modified Clark
+     Time of Concentration: 6.41
+     Storage Coefficient: 20.81
+     Grid Region Name: Grid Region 1
+     Grid Area Name: W550
+
+     Baseflow: Monthly Constant
+     Monthly rate: 0.1
+     Monthly rate: 0.1
+     Monthly rate: 0.1
+     Monthly rate: 0.1
+     Monthly rate: 0.1
+     Monthly rate: 0.1
+     Monthly rate: 0.1
+     Monthly rate: 0.1
+     Monthly rate: 0.1
+     Monthly rate: 0.1
+     Monthly rate: 0.1
+     Monthly rate: 0.1
+End:
+
+Sink: Outlet1
+     Description: Outlet1
+     Last Modified Date: 4 February 2021
+     Last Modified Time: 19:59:13
+     Canvas X: 855808.8658999996
+     Canvas Y: 3328139.2749000005
+     Label X: 16.0
+     Label Y: 16.0
+End:
+
+Basin Layer Properties:
+     Element Layer:
+          Name: Icons
+          Layer shown: Yes
+     End Layer:
+End:
+
+Basin Spatial Properties:
+     Coordinate System: PROJCS["UTM_ZONE_14N_Nad83",GEOGCS["NAD83",DATUM["North_American_Datum_1983",SPHEROID["GRS 1980",6378137,298.257222101,AUTHORITY["EPSG","7019"]],TOWGS84[0,0,0,0,0,0,0],AUTHORITY["EPSG","6269"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4269"]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",-99],PARAMETER["scale_factor",0.9996],PARAMETER["false_easting",500000],PARAMETER["false_northing",0],UNIT["Meter",1],AXIS["Easting",EAST],AXIS["Northing",NORTH]]
+End:
+
+Basin Schematic Properties:
+     Last View N: 3336149.2749000005
+     Last View S: 3309239.2749000005
+     Last View W: 790393.8658999996
+     Last View E: 855823.8658999996
+     Maximum View N: 3336149.2749000005
+     Maximum View S: 3309239.2749000005
+     Maximum View W: 790393.8658999996
+     Maximum View E: 855823.8658999996
+     Extent Method: Elements
+     Buffer: 10
+     Draw Icons: Yes
+     Draw Icon Labels: Name
+     Draw Map Objects: No
+     Draw Gridlines: Yes
+     Draw Flow Direction: No
+     Draw HillShade Layer: Yes
+     Draw Elevation Layer: Yes
+     Elevation Layer Color Palette: Default
+     Ignore Elevation Color Ramp Scale: No
+     Use Interpolated Color Ramp for Elevation Layer: Yes
+     Color Ramp Opacity Level for Elevation Layer: 33.0
+     Fix Element Locations: No
+     Fix Hydrologic Order: No
+End:
+
+Computation Point: J198
+     Parameter Set: 1
+     End Parameter Set:
+     Parameter Set: 2
+     End Parameter Set:
+     Parameter Set: 3
+     End Parameter Set:
+     Parameter Set: 4
+     End Parameter Set:
+     Parameter Set: 5
+     End Parameter Set:
+
+     Graph Definition: 
+     End Graph Definition: 
+
+     Graph Definition: 
+     End Graph Definition: 
+
+     Graph Definition: 
+     End Graph Definition: 
+
+     Graph Definition: 
+     End Graph Definition: 
+
+     Graph Definition: 
+     End Graph Definition: 
+
+End Computation Point: 
+
+Computation Point: J179
+     Parameter Set: 1
+     End Parameter Set:
+     Parameter Set: 2
+     End Parameter Set:
+     Parameter Set: 3
+     End Parameter Set:
+     Parameter Set: 4
+     End Parameter Set:
+     Parameter Set: 5
+     End Parameter Set:
+
+     Graph Definition: 
+     End Graph Definition: 
+
+     Graph Definition: 
+     End Graph Definition: 
+
+     Graph Definition: 
+     End Graph Definition: 
+
+     Graph Definition: 
+     End Graph Definition: 
+
+     Graph Definition: 
+     End Graph Definition: 
+
+End Computation Point: 
+
+Computation Point: J208
+     Parameter Set: 1
+     End Parameter Set:
+     Parameter Set: 2
+     End Parameter Set:
+     Parameter Set: 3
+     End Parameter Set:
+     Parameter Set: 4
+     End Parameter Set:
+     Parameter Set: 5
+     End Parameter Set:
+
+     Graph Definition: 
+     End Graph Definition: 
+
+     Graph Definition: 
+     End Graph Definition: 
+
+     Graph Definition: 
+     End Graph Definition: 
+
+     Graph Definition: 
+     End Graph Definition: 
+
+     Graph Definition: 
+     End Graph Definition: 
+
+End Computation Point: 
+
+Computation Point: J182
+     Parameter Set: 1
+     End Parameter Set:
+     Parameter Set: 2
+     End Parameter Set:
+     Parameter Set: 3
+     End Parameter Set:
+     Parameter Set: 4
+     End Parameter Set:
+     Parameter Set: 5
+     End Parameter Set:
+
+     Graph Definition: 
+     End Graph Definition: 
+
+     Graph Definition: 
+     End Graph Definition: 
+
+     Graph Definition: 
+     End Graph Definition: 
+
+     Graph Definition: 
+     End Graph Definition: 
+
+     Graph Definition: 
+     End Graph Definition: 
+
+End Computation Point: 
+
+Computation Point: J216
+     Parameter Set: 1
+     End Parameter Set:
+     Parameter Set: 2
+     End Parameter Set:
+     Parameter Set: 3
+     End Parameter Set:
+     Parameter Set: 4
+     End Parameter Set:
+     Parameter Set: 5
+     End Parameter Set:
+
+     Graph Definition: 
+     End Graph Definition: 
+
+     Graph Definition: 
+     End Graph Definition: 
+
+     Graph Definition: 
+     End Graph Definition: 
+
+     Graph Definition: 
+     End Graph Definition: 
+
+     Graph Definition: 
+     End Graph Definition: 
+
+End Computation Point: 
+
+Zone Configuration: Upstream1
+     Description: 
+     Element Type: Subbasin
+
+     Zone: 1
+     Zone Description: 
+     Element Name: W660
+     Element Name: W770
+     Element Name: W810
+     Element Name: W860
+     Element Name: W910
+     Element Name: W920
+     Element Name: W880
+     End Zone: 
+End Zone Configuration: 

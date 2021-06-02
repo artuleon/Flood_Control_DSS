@@ -1,0 +1,101 @@
+Paired Data Manager: CypressHMS
+     Version: 4.3
+     Filepath Separator: \
+End:
+
+Table: Table 390
+     Table Type: Elevation-Storage
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 02:56:22
+     X-Units: M
+     Y-Units: THOU M3
+     Use External DSS File: NO
+     DSS File: CypressHMS.dss
+     Pathname: //Table 390/ELEVATION-STORAGE///TABLE/
+     Interpolation: Linear Interpolation
+End:
+
+Table: Table 420
+     Table Type: Elevation-Storage
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 02:56:22
+     X-Units: M
+     Y-Units: THOU M3
+     Use External DSS File: NO
+     DSS File: CypressHMS.dss
+     Pathname: //Table 420/ELEVATION-STORAGE///TABLE/
+     Interpolation: Linear Interpolation
+End:
+
+Table: Table 400
+     Table Type: Elevation-Storage
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 02:56:22
+     X-Units: M
+     Y-Units: THOU M3
+     Use External DSS File: NO
+     DSS File: CypressHMS.dss
+     Pathname: //Table 400/ELEVATION-STORAGE///TABLE/
+     Interpolation: Linear Interpolation
+End:
+
+Table: Table 410
+     Table Type: Elevation-Storage
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 02:56:22
+     X-Units: M
+     Y-Units: THOU M3
+     Use External DSS File: NO
+     DSS File: CypressHMS.dss
+     Pathname: //Table 410/ELEVATION-STORAGE///TABLE/
+     Interpolation: Linear Interpolation
+End:
+
+Table: Table 300
+     Table Type: Elevation-Storage
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 02:56:22
+     X-Units: M
+     Y-Units: THOU M3
+     Use External DSS File: NO
+     DSS File: CypressHMS.dss
+     Pathname: //Table 300/ELEVATION-STORAGE///TABLE/
+     Interpolation: Linear Interpolation
+End:
+
+Table: Table 310
+     Table Type: Elevation-Storage
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 02:56:22
+     X-Units: M
+     Y-Units: THOU M3
+     Use External DSS File: NO
+     DSS File: CypressHMS.dss
+     Pathname: //Table 310/ELEVATION-STORAGE///TABLE/
+     Interpolation: Linear Interpolation
+End:
+
+Table: Table 330
+     Table Type: Elevation-Storage
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 02:56:22
+     X-Units: M
+     Y-Units: THOU M3
+     Use External DSS File: NO
+     DSS File: CypressHMS.dss
+     Pathname: //Table 330/ELEVATION-STORAGE///TABLE/
+     Interpolation: Linear Interpolation
+End:
+
+Table: Table 380
+     Table Type: Elevation-Storage
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 02:56:22
+     X-Units: M
+     Y-Units: THOU M3
+     Use External DSS File: NO
+     DSS File: CypressHMS.dss
+     Pathname: //Table 380/ELEVATION-STORAGE///TABLE/
+     Interpolation: Linear Interpolation
+End:
+

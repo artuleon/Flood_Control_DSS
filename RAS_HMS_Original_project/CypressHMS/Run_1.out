@@ -1,0 +1,126 @@
+    -----DSS---ZOPEN:  Existing File Opened,  File: C:\Arturo_final\SOFTWARE_FINAL\DSS_Flood_2022\DSSWetland_Metric\RAS_HMS_Original_project\CypressHMS\data\2016 PDIR.dss
+                       Unit:    4;  DSS Versions - Software: 6-YL, File: 6-WE,  Library 7-GP
+    -----DSS---ZOPEN:  Existing File Opened,  File: C:\Arturo_final\SOFTWARE_FINAL\DSS_Flood_2022\DSSWetland_Metric\RAS_HMS_Original_project\CypressHMS\data\GridCN.dss
+                       Unit:    5;  DSS Versions - Software: 6-YL, File: 6-WE,  Library 7-GP
+    -----DSS---ZOPEN:  Existing File Opened,  File: C:\Arturo_final\SOFTWARE_FINAL\DSS_Flood_2022\DSSWetland_Metric\RAS_HMS_Original_project\CypressHMS\CypressHMS.dss
+                       Unit:    6;  DSS Versions - Software: 6-YL, File: 6-YL,  Library 7-GP
+    -----DSS---ZOPEN:  Existing File Opened,  File: C:\Arturo_final\SOFTWARE_FINAL\DSS_Flood_2022\DSSWetland_Metric\RAS_HMS_Original_project\CypressHMS\WetlandOutflow390.dss
+                       Unit:    7;  DSS Versions - Software: 6-YL, File: 6-QF,  Library 7-GP
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    7
+ Pathname: /BASIN/LOC/FLOW/01MAY2016/1HOUR/OBS/
+    -----DSS---ZOPEN:  Existing File Opened,  File: C:\Arturo_final\SOFTWARE_FINAL\DSS_Flood_2022\DSSWetland_Metric\RAS_HMS_Original_project\CypressHMS\WetlandOutflow420.dss
+                       Unit:    8;  DSS Versions - Software: 6-YL, File: 6-QF,  Library 7-GP
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    8
+ Pathname: /BASIN/LOC/FLOW/01MAR2016/1HOUR/OBS/
+    -----DSS---ZOPEN:  Existing File Opened,  File: C:\Arturo_final\SOFTWARE_FINAL\DSS_Flood_2022\DSSWetland_Metric\RAS_HMS_Original_project\CypressHMS\WetlandOutflow400.dss
+                       Unit:    9;  DSS Versions - Software: 6-YL, File: 6-QF,  Library 7-GP
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    9
+ Pathname: /BASIN/LOC/FLOW/01MAR2016/1HOUR/OBS/
+    -----DSS---ZOPEN:  Existing File Opened,  File: C:\Arturo_final\SOFTWARE_FINAL\DSS_Flood_2022\DSSWetland_Metric\RAS_HMS_Original_project\CypressHMS\WetlandOutflow410.dss
+                       Unit:   10;  DSS Versions - Software: 6-YL, File: 6-QF,  Library 7-GP
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:   10
+ Pathname: /BASIN/LOC/FLOW/01MAR2016/1HOUR/OBS/
+    -----DSS---ZOPEN:  Existing File Opened,  File: C:\Arturo_final\SOFTWARE_FINAL\DSS_Flood_2022\DSSWetland_Metric\RAS_HMS_Original_project\CypressHMS\WetlandOutflow300.dss
+                       Unit:   11;  DSS Versions - Software: 6-YL, File: 6-QF,  Library 7-GP
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:   11
+ Pathname: /BASIN/LOC/FLOW/01MAR2016/1HOUR/OBS/
+    -----DSS---ZOPEN:  Existing File Opened,  File: C:\Arturo_final\SOFTWARE_FINAL\DSS_Flood_2022\DSSWetland_Metric\RAS_HMS_Original_project\CypressHMS\WetlandOutflow310.dss
+                       Unit:   12;  DSS Versions - Software: 6-YL, File: 6-QF,  Library 7-GP
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:   12
+ Pathname: /BASIN/LOC/FLOW/01MAR2016/1HOUR/OBS/
+    -----DSS---ZOPEN:  Existing File Opened,  File: C:\Arturo_final\SOFTWARE_FINAL\DSS_Flood_2022\DSSWetland_Metric\RAS_HMS_Original_project\CypressHMS\WetlandOutflow330.dss
+                       Unit:   13;  DSS Versions - Software: 6-YL, File: 6-QF,  Library 7-GP
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:   13
+ Pathname: /BASIN/LOC/FLOW/01MAR2016/1HOUR/OBS/
+    -----DSS---ZOPEN:  Existing File Opened,  File: C:\Arturo_final\SOFTWARE_FINAL\DSS_Flood_2022\DSSWetland_Metric\RAS_HMS_Original_project\CypressHMS\WetlandOutflow380.dss
+                       Unit:   14;  DSS Versions - Software: 6-YL, File: 6-QF,  Library 7-GP
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:   14
+ Pathname: /BASIN/LOC/FLOW/01MAR2016/1HOUR/OBS/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    7
+ Pathname: /BASIN/LOC/FLOW/01MAY2016/1HOUR/OBS/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    8
+ Pathname: /BASIN/LOC/FLOW/01MAY2016/1HOUR/OBS/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    9
+ Pathname: /BASIN/LOC/FLOW/01MAY2016/1HOUR/OBS/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:   10
+ Pathname: /BASIN/LOC/FLOW/01MAY2016/1HOUR/OBS/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:   11
+ Pathname: /BASIN/LOC/FLOW/01MAY2016/1HOUR/OBS/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:   12
+ Pathname: /BASIN/LOC/FLOW/01MAY2016/1HOUR/OBS/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:   13
+ Pathname: /BASIN/LOC/FLOW/01MAY2016/1HOUR/OBS/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:   14
+ Pathname: /BASIN/LOC/FLOW/01MAY2016/1HOUR/OBS/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    3
+ Pathname: //J176/FLOW-LOCAL/01APR2016/1HOUR/RUN:RUN 1/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    3
+ Pathname: //J176/FLOW-LOCAL-SIM/01APR2016/1HOUR/RUN:RUN 1/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    3
+ Pathname: //J185/FLOW-LOCAL/01APR2016/1HOUR/RUN:RUN 1/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    3
+ Pathname: //J185/FLOW-LOCAL-SIM/01APR2016/1HOUR/RUN:RUN 1/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    3
+ Pathname: //J198/FLOW-LOCAL/01APR2016/1HOUR/RUN:RUN 1/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    3
+ Pathname: //J198/FLOW-LOCAL-SIM/01APR2016/1HOUR/RUN:RUN 1/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    3
+ Pathname: //J201/FLOW-LOCAL/01APR2016/1HOUR/RUN:RUN 1/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    3
+ Pathname: //J201/FLOW-LOCAL-SIM/01APR2016/1HOUR/RUN:RUN 1/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    3
+ Pathname: //J221/FLOW-LOCAL/01APR2016/1HOUR/RUN:RUN 1/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    3
+ Pathname: //J221/FLOW-LOCAL-SIM/01APR2016/1HOUR/RUN:RUN 1/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    3
+ Pathname: //J228/FLOW-LOCAL/01APR2016/1HOUR/RUN:RUN 1/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    3
+ Pathname: //J228/FLOW-LOCAL-SIM/01APR2016/1HOUR/RUN:RUN 1/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    3
+ Pathname: //J248/FLOW-LOCAL/01APR2016/1HOUR/RUN:RUN 1/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    3
+ Pathname: //J248/FLOW-LOCAL-SIM/01APR2016/1HOUR/RUN:RUN 1/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    3
+ Pathname: //J179/FLOW-LOCAL/01APR2016/1HOUR/RUN:RUN 1/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    3
+ Pathname: //J179/FLOW-LOCAL-SIM/01APR2016/1HOUR/RUN:RUN 1/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    3
+ Pathname: //J173/FLOW-LOCAL/01APR2016/1HOUR/RUN:RUN 1/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    3
+ Pathname: //J173/FLOW-LOCAL-SIM/01APR2016/1HOUR/RUN:RUN 1/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    3
+ Pathname: //J208/FLOW-LOCAL/01APR2016/1HOUR/RUN:RUN 1/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    3
+ Pathname: //J208/FLOW-LOCAL-SIM/01APR2016/1HOUR/RUN:RUN 1/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    3
+ Pathname: //J182/FLOW-LOCAL/01APR2016/1HOUR/RUN:RUN 1/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    3
+ Pathname: //J182/FLOW-LOCAL-SIM/01APR2016/1HOUR/RUN:RUN 1/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    3
+ Pathname: //J190/FLOW-LOCAL/01APR2016/1HOUR/RUN:RUN 1/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    3
+ Pathname: //J190/FLOW-LOCAL-SIM/01APR2016/1HOUR/RUN:RUN 1/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    3
+ Pathname: //J241/FLOW-LOCAL/01APR2016/1HOUR/RUN:RUN 1/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    3
+ Pathname: //J241/FLOW-LOCAL-SIM/01APR2016/1HOUR/RUN:RUN 1/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    3
+ Pathname: //J243/FLOW-LOCAL/01APR2016/1HOUR/RUN:RUN 1/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    3
+ Pathname: //J243/FLOW-LOCAL-SIM/01APR2016/1HOUR/RUN:RUN 1/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    3
+ Pathname: //J195/FLOW-LOCAL/01APR2016/1HOUR/RUN:RUN 1/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    3
+ Pathname: //J195/FLOW-LOCAL-SIM/01APR2016/1HOUR/RUN:RUN 1/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    3
+ Pathname: //J216/FLOW-LOCAL/01APR2016/1HOUR/RUN:RUN 1/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    3
+ Pathname: //J216/FLOW-LOCAL-SIM/01APR2016/1HOUR/RUN:RUN 1/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    3
+ Pathname: //J236/FLOW-LOCAL/01APR2016/1HOUR/RUN:RUN 1/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    3
+ Pathname: //J236/FLOW-LOCAL-SIM/01APR2016/1HOUR/RUN:RUN 1/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    3
+ Pathname: //J211/FLOW-LOCAL/01APR2016/1HOUR/RUN:RUN 1/
+ -----DSS*** zrrts6:  CAUTION - Data block not found in file.  Unit:    3
+ Pathname: //J211/FLOW-LOCAL-SIM/01APR2016/1HOUR/RUN:RUN 1/

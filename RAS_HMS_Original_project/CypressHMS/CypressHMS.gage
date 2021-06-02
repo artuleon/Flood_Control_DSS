@@ -1,0 +1,165 @@
+Gage Manager: CypressHMS
+     Version: 4.3
+     Filepath Separator: \
+End:
+
+Gage: Gage 390
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 03:08:33
+     Reference Height Units: Meters
+     Reference Height: 10.0
+     Gage Type: Flow
+     Units: m3/s
+     Data Type: INST-VAL
+     Data Source Type: External DSS
+     Variant: Variant-1
+       Last Variant Modified Date: 27 April 2021
+       Last Variant Modified Time: 03:03:53
+       Default Variant: Yes
+       DSS File Name: WetlandOutflow390.dss
+       DSS Pathname: /BASIN/LOC/FLOW/01APR2016 - 01APR2021/1HOUR/OBS/
+       Start Time: 1 January 2000, 00:00
+       End Time: 2 January 2000, 00:00
+     End Variant: Variant-1
+End:
+
+Gage: Gage 420
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 03:08:33
+     Reference Height Units: Meters
+     Reference Height: 10.0
+     Gage Type: Flow
+     Units: m3/s
+     Data Type: INST-VAL
+     Data Source Type: External DSS
+     Variant: Variant-1
+       Last Variant Modified Date: 27 April 2021
+       Last Variant Modified Time: 03:04:24
+       Default Variant: Yes
+       DSS File Name: WetlandOutflow420.dss
+       DSS Pathname: /BASIN/LOC/FLOW/01APR2016/1HOUR/OBS/
+       Start Time: 1 January 2000, 00:00
+       End Time: 2 January 2000, 00:00
+     End Variant: Variant-1
+End:
+
+Gage: Gage 400
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 03:08:33
+     Reference Height Units: Meters
+     Reference Height: 10.0
+     Gage Type: Flow
+     Units: m3/s
+     Data Type: INST-VAL
+     Data Source Type: External DSS
+     Variant: Variant-1
+       Last Variant Modified Date: 27 April 2021
+       Last Variant Modified Time: 03:04:03
+       Default Variant: Yes
+       DSS File Name: WetlandOutflow400.dss
+       DSS Pathname: /BASIN/LOC/FLOW/01APR2016/1HOUR/OBS/
+       Start Time: 1 January 2000, 00:00
+       End Time: 2 January 2000, 00:00
+     End Variant: Variant-1
+End:
+
+Gage: Gage 410
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 03:08:33
+     Reference Height Units: Meters
+     Reference Height: 10.0
+     Gage Type: Flow
+     Units: m3/s
+     Data Type: INST-VAL
+     Data Source Type: External DSS
+     Variant: Variant-1
+       Last Variant Modified Date: 27 April 2021
+       Last Variant Modified Time: 03:04:12
+       Default Variant: Yes
+       DSS File Name: WetlandOutflow410.dss
+       DSS Pathname: /BASIN/LOC/FLOW/01APR2016/1HOUR/OBS/
+       Start Time: 1 January 2000, 00:00
+       End Time: 2 January 2000, 00:00
+     End Variant: Variant-1
+End:
+
+Gage: Gage 300
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 03:08:33
+     Reference Height Units: Meters
+     Reference Height: 10.0
+     Gage Type: Flow
+     Units: m3/s
+     Data Type: INST-VAL
+     Data Source Type: External DSS
+     Variant: Variant-1
+       Last Variant Modified Date: 27 April 2021
+       Last Variant Modified Time: 03:03:13
+       Default Variant: Yes
+       DSS File Name: WetlandOutflow300.dss
+       DSS Pathname: /BASIN/LOC/FLOW/01APR2016/1HOUR/OBS/
+       Start Time: 1 January 2000, 00:00
+       End Time: 2 January 2000, 00:00
+     End Variant: Variant-1
+End:
+
+Gage: Gage 310
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 03:08:33
+     Reference Height Units: Meters
+     Reference Height: 10.0
+     Gage Type: Flow
+     Units: m3/s
+     Data Type: INST-VAL
+     Data Source Type: External DSS
+     Variant: Variant-1
+       Last Variant Modified Date: 27 April 2021
+       Last Variant Modified Time: 03:03:23
+       Default Variant: Yes
+       DSS File Name: WetlandOutflow310.dss
+       DSS Pathname: /BASIN/LOC/FLOW/01APR2016/1HOUR/OBS/
+       Start Time: 1 January 2000, 00:00
+       End Time: 2 January 2000, 00:00
+     End Variant: Variant-1
+End:
+
+Gage: Gage 330
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 03:08:33
+     Reference Height Units: Meters
+     Reference Height: 10.0
+     Gage Type: Flow
+     Units: m3/s
+     Data Type: INST-VAL
+     Data Source Type: External DSS
+     Variant: Variant-1
+       Last Variant Modified Date: 27 April 2021
+       Last Variant Modified Time: 03:03:33
+       Default Variant: Yes
+       DSS File Name: WetlandOutflow330.dss
+       DSS Pathname: /BASIN/LOC/FLOW/01APR2016/1HOUR/OBS/
+       Start Time: 1 January 2000, 00:00
+       End Time: 2 January 2000, 00:00
+     End Variant: Variant-1
+End:
+
+Gage: Gage 380
+     Last Modified Date: 27 April 2021
+     Last Modified Time: 03:08:33
+     Reference Height Units: Meters
+     Reference Height: 10.0
+     Gage Type: Flow
+     Units: m3/s
+     Data Type: INST-VAL
+     Data Source Type: External DSS
+     Variant: Variant-1
+       Last Variant Modified Date: 27 April 2021
+       Last Variant Modified Time: 03:03:44
+       Default Variant: Yes
+       DSS File Name: WetlandOutflow380.dss
+       DSS Pathname: /BASIN/LOC/FLOW/01APR2016/1HOUR/OBS/
+       Start Time: 1 January 2000, 00:00
+       End Time: 2 January 2000, 00:00
+     End Variant: Variant-1
+End:
+

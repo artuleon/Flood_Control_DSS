@@ -1,0 +1,7 @@
+This model is built based on HEC HMS 4.3 by Linlong
+
+This model can successfully run by user face
+
+This model cannot run by hec-hms.cmd on Linlong Desktop
+This model can sucessfully run by hec-hms.cmd on Sumt Desktop
+

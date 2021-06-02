@@ -1,0 +1,831 @@
+Panel Begin
+   backgroundColor=null
+   viewportSpaceSize=5
+   hasToolbar=true
+   toolbarPosition=2
+   dialogHeight=-2147483648
+   dialogWidth=-2147483648
+   Toolbar Begin
+      defaultButton=1
+      ToolbarButton Begin
+         ButtonUp=Images/Point.gif
+         ButtonDown=Images/Point.gif
+         ButtonOver=Images/Point.gif
+         ButtonOn=Images/Point.gif
+         ButtonAdapter=hec.gfx2d.G2dPointerAdapter
+         ToolTipText=
+      ToolbarButton End
+      ToolbarButton Begin
+         ButtonUp=Images/ZoomUp.gif
+         ButtonDown=Images/ZoomDown.gif
+         ButtonOver=Images/ZoomUp.gif
+         ButtonOn=Images/ZoomDown.gif
+         ButtonAdapter=hec.gfx2d.G2dZoomAdapter
+         ToolTipText=
+      ToolbarButton End
+   Toolbar End
+   hasTitle=true
+   Title Begin
+      drawTitle=false
+      text=
+      fontSize=12
+      tinyFontSizw=8
+      minFontSize=8
+      maxFontSize=16
+      fontStyle=0
+      fontFamily=Dialog
+      textColor=black
+      align=1
+      rotation=0
+      space=2
+      drawBorder=false
+      showLabel=true
+      drawBackground=false
+      borderStyle=Solid
+      borderWeight=1.0
+      borderColor=blue
+      backgroundColor=blue
+      fillPattern=Solid
+      iconPath=
+      alphaComposite=1.0
+      useFontScaling=true
+   Title End
+   hasLegend=true
+   Legend Panel Begin
+      hasTitleText=true
+      TitleText Begin
+         text=
+         fontSize=15
+         tinyFontSizw=8
+         minFontSize=8
+         maxFontSize=16
+         fontStyle=1
+         fontFamily=Dialog
+         textColor=black
+         align=1
+         rotation=0
+         space=2
+         drawBorder=false
+         showLabel=true
+         drawBackground=false
+         borderStyle=Solid
+         borderWeight=1.0
+         borderColor=blue
+         backgroundColor=blue
+         fillPattern=Solid
+         iconPath=
+         alphaComposite=1.0
+         useFontScaling=true
+      TitleText End
+      hasLeftText=false
+      LeftText Begin
+         text=null
+         fontSize=12
+         tinyFontSizw=8
+         minFontSize=8
+         maxFontSize=16
+         fontStyle=0
+         fontFamily=Dialog
+         textColor=black
+         align=1
+         rotation=0
+         space=2
+         drawBorder=false
+         showLabel=true
+         drawBackground=false
+         borderStyle=Solid
+         borderWeight=1.0
+         borderColor=null
+         backgroundColor=null
+         fillPattern=Solid
+         iconPath=
+         alphaComposite=1.0
+         useFontScaling=true
+      LeftText End
+      hasRightText=false
+      RightText Begin
+         text=null
+         fontSize=12
+         tinyFontSizw=8
+         minFontSize=8
+         maxFontSize=16
+         fontStyle=0
+         fontFamily=Dialog
+         textColor=black
+         align=1
+         rotation=0
+         space=2
+         drawBorder=false
+         showLabel=true
+         drawBackground=false
+         borderStyle=Solid
+         borderWeight=1.0
+         borderColor=null
+         backgroundColor=null
+         fillPattern=Solid
+         iconPath=
+         alphaComposite=1.0
+         useFontScaling=true
+      RightText End
+      layoutPosition=0
+      legendPosition=0
+      legendVisible=true
+      LegendItem Begin
+         text=
+         fontSize=11
+         tinyFontSizw=8
+         minFontSize=15
+         maxFontSize=15
+         fontStyle=1
+         fontFamily=Dialog
+         textColor=black
+         align=0
+         rotation=0
+         space=2
+         drawBorder=false
+         showLabel=true
+         drawBackground=false
+         borderStyle=Solid
+         borderWeight=1.0
+         borderColor=blue
+         backgroundColor=blue
+         fillPattern=Solid
+         iconPath=
+         alphaComposite=1.0
+         useFontScaling=true
+      LegendItem End
+      LegendItem Begin
+         text=
+         fontSize=11
+         tinyFontSizw=8
+         minFontSize=15
+         maxFontSize=15
+         fontStyle=1
+         fontFamily=Dialog
+         textColor=black
+         align=0
+         rotation=0
+         space=2
+         drawBorder=false
+         showLabel=true
+         drawBackground=false
+         borderStyle=Solid
+         borderWeight=1.0
+         borderColor=blue
+         backgroundColor=blue
+         fillPattern=Solid
+         iconPath=
+         alphaComposite=1.0
+         useFontScaling=true
+      LegendItem End
+      LegendItem Begin
+         text=
+         fontSize=11
+         tinyFontSizw=8
+         minFontSize=15
+         maxFontSize=15
+         fontStyle=1
+         fontFamily=Dialog
+         textColor=black
+         align=0
+         rotation=0
+         space=2
+         drawBorder=false
+         showLabel=true
+         drawBackground=false
+         borderStyle=Solid
+         borderWeight=1.0
+         borderColor=blue
+         backgroundColor=blue
+         fillPattern=Solid
+         iconPath=
+         alphaComposite=1.0
+         useFontScaling=true
+      LegendItem End
+      LegendItem Begin
+         text=
+         fontSize=11
+         tinyFontSizw=8
+         minFontSize=15
+         maxFontSize=15
+         fontStyle=1
+         fontFamily=Dialog
+         textColor=black
+         align=0
+         rotation=0
+         space=2
+         drawBorder=false
+         showLabel=true
+         drawBackground=false
+         borderStyle=Solid
+         borderWeight=1.0
+         borderColor=blue
+         backgroundColor=blue
+         fillPattern=Solid
+         iconPath=
+         alphaComposite=1.0
+         useFontScaling=true
+      LegendItem End
+      LegendItem Begin
+         text=
+         fontSize=11
+         tinyFontSizw=8
+         minFontSize=15
+         maxFontSize=15
+         fontStyle=1
+         fontFamily=Dialog
+         textColor=black
+         align=0
+         rotation=0
+         space=2
+         drawBorder=false
+         showLabel=true
+         drawBackground=false
+         borderStyle=Solid
+         borderWeight=1.0
+         borderColor=blue
+         backgroundColor=blue
+         fillPattern=Solid
+         iconPath=
+         alphaComposite=1.0
+         useFontScaling=true
+      LegendItem End
+      LegendItem Begin
+         text=
+         fontSize=11
+         tinyFontSizw=8
+         minFontSize=15
+         maxFontSize=15
+         fontStyle=1
+         fontFamily=Dialog
+         textColor=black
+         align=0
+         rotation=0
+         space=2
+         drawBorder=false
+         showLabel=true
+         drawBackground=false
+         borderStyle=Solid
+         borderWeight=1.0
+         borderColor=blue
+         backgroundColor=blue
+         fillPattern=Solid
+         iconPath=
+         alphaComposite=1.0
+         useFontScaling=true
+      LegendItem End
+   Legend Panel End
+   Plot Begin
+      hasX1Tics=false
+      hasX1Label=false
+      X1AxisLabel Begin
+         text=null
+         fontSize=12
+         tinyFontSizw=8
+         minFontSize=8
+         maxFontSize=16
+         fontStyle=0
+         fontFamily=Dialog
+         textColor=black
+         align=1
+         rotation=0
+         space=2
+         drawBorder=false
+         showLabel=true
+         drawBackground=false
+         borderStyle=Solid
+         borderWeight=1.0
+         borderColor=null
+         backgroundColor=null
+         fillPattern=Solid
+         iconPath=
+         alphaComposite=1.0
+         useFontScaling=true
+      X1AxisLabel End
+      X1Axis Begin
+         name=Minutes
+         label=Minutes
+         isDefaultLimits=false
+         min=6.116262E7
+         max=6.118278E7
+         majortic=1440.0
+         minortic=120.0
+         type=1
+         numTicLabelLayers=2
+         actmax=6.118278E7
+         actmin=6.116262E7
+         autoviewmax=false
+      X1Axis End
+      X1AxisTics Begin
+         fontSize=12
+         tinyFontSizw=8
+         minFontSize=8
+         maxFontSize=16
+         fontStyle=0
+         fontFamily=Dialog
+      X1AxisTics End
+      Y1AxisLabel Begin
+         text=Elev (M)
+         fontSize=15
+         tinyFontSizw=8
+         minFontSize=8
+         maxFontSize=16
+         fontStyle=1
+         fontFamily=Dialog
+         textColor=black
+         align=1
+         rotation=90
+         space=2
+         drawBorder=false
+         showLabel=true
+         drawBackground=false
+         borderStyle=Solid
+         borderWeight=1.0
+         borderColor=blue
+         backgroundColor=blue
+         fillPattern=Solid
+         iconPath=
+         alphaComposite=1.0
+         useFontScaling=true
+      Y1AxisLabel End
+      Y1Axis Begin
+         name=Elev (M)
+         label=Elev (M)
+         isDefaultLimits=false
+         min=0.30000000000000004
+         max=1.2000000000000002
+         isReversed=true
+         majortic=0.1
+         minortic=0.0
+         actmax=1.2000000000000002
+         actmin=0.30000000000000004
+      Y1Axis End
+      Y1AxisTics Begin
+         fontSize=12
+         tinyFontSizw=8
+         minFontSize=8
+         maxFontSize=16
+         fontStyle=0
+         fontFamily=Dialog
+      Y1AxisTics End
+      X1AxisLabel Begin
+         text=null
+         fontSize=12
+         tinyFontSizw=8
+         minFontSize=8
+         maxFontSize=16
+         fontStyle=0
+         fontFamily=Dialog
+         textColor=black
+         align=1
+         rotation=0
+         space=2
+         drawBorder=false
+         showLabel=true
+         drawBackground=false
+         borderStyle=Solid
+         borderWeight=1.0
+         borderColor=null
+         backgroundColor=null
+         fillPattern=Solid
+         iconPath=
+         alphaComposite=1.0
+         useFontScaling=true
+      X1AxisLabel End
+      X2Axis Begin
+      X2Axis End
+      X2AxisTics Begin
+         fontSize=12
+         tinyFontSizw=8
+         minFontSize=8
+         maxFontSize=16
+         fontStyle=0
+         fontFamily=Dialog
+      X2AxisTics End
+      Y2AxisLabel Begin
+         text=null
+         fontSize=12
+         tinyFontSizw=8
+         minFontSize=8
+         maxFontSize=16
+         fontStyle=0
+         fontFamily=Dialog
+         textColor=black
+         align=1
+         rotation=90
+         space=2
+         drawBorder=false
+         showLabel=true
+         drawBackground=false
+         borderStyle=Solid
+         borderWeight=1.0
+         borderColor=null
+         backgroundColor=null
+         fillPattern=Solid
+         iconPath=
+         alphaComposite=1.0
+         useFontScaling=true
+      Y2AxisLabel End
+      Y2Axis Begin
+      Y2Axis End
+      Y2AxisTics Begin
+         fontSize=12
+         tinyFontSizw=8
+         minFontSize=8
+         maxFontSize=16
+         fontStyle=0
+         fontFamily=Dialog
+      Y2AxisTics End
+      hasXScroll=false
+      Viewport Begin
+         Glyph Begin
+            Line Begin
+               lineWidth=2.0
+               enableQualityPoints=true
+               label=
+            Line End
+            Polygon Begin
+            Polygon End
+         Glyph End
+      Viewport End
+   Plot End
+   Plot Begin
+      row=1
+      hasX1Tics=false
+      hasX1Label=false
+      X1AxisLabel Begin
+         text=null
+         fontSize=12
+         tinyFontSizw=8
+         minFontSize=8
+         maxFontSize=16
+         fontStyle=0
+         fontFamily=Dialog
+         textColor=black
+         align=1
+         rotation=0
+         space=2
+         drawBorder=false
+         showLabel=true
+         drawBackground=false
+         borderStyle=Solid
+         borderWeight=1.0
+         borderColor=null
+         backgroundColor=null
+         fillPattern=Solid
+         iconPath=
+         alphaComposite=1.0
+         useFontScaling=true
+      X1AxisLabel End
+      X1Axis Begin
+         name=Minutes
+         label=Minutes
+         isDefaultLimits=false
+         min=6.116262E7
+         max=6.118278E7
+         majortic=1440.0
+         minortic=120.0
+         type=1
+         numTicLabelLayers=2
+         actmax=6.118278E7
+         actmin=6.116262E7
+         autoviewmax=false
+      X1Axis End
+      X1AxisTics Begin
+         fontSize=12
+         tinyFontSizw=8
+         minFontSize=8
+         maxFontSize=16
+         fontStyle=0
+         fontFamily=Dialog
+      X1AxisTics End
+      Y1AxisLabel Begin
+         text=Flow (cms)
+         fontSize=15
+         tinyFontSizw=8
+         minFontSize=8
+         maxFontSize=16
+         fontStyle=1
+         fontFamily=Dialog
+         textColor=black
+         align=1
+         rotation=90
+         space=2
+         drawBorder=false
+         showLabel=true
+         drawBackground=false
+         borderStyle=Solid
+         borderWeight=1.0
+         borderColor=blue
+         backgroundColor=blue
+         fillPattern=Solid
+         iconPath=
+         alphaComposite=1.0
+         useFontScaling=true
+      Y1AxisLabel End
+      Y1Axis Begin
+         name=Flow (cms)
+         label=Flow (cms)
+         isDefaultLimits=false
+         min=0.0
+         max=60.0
+         isReversed=true
+         minortic=2.0
+         actmax=60.0
+         actmin=0.0
+      Y1Axis End
+      Y1AxisTics Begin
+         fontSize=12
+         tinyFontSizw=8
+         minFontSize=8
+         maxFontSize=16
+         fontStyle=0
+         fontFamily=Dialog
+      Y1AxisTics End
+      X1AxisLabel Begin
+         text=null
+         fontSize=12
+         tinyFontSizw=8
+         minFontSize=8
+         maxFontSize=16
+         fontStyle=0
+         fontFamily=Dialog
+         textColor=black
+         align=1
+         rotation=0
+         space=2
+         drawBorder=false
+         showLabel=true
+         drawBackground=false
+         borderStyle=Solid
+         borderWeight=1.0
+         borderColor=null
+         backgroundColor=null
+         fillPattern=Solid
+         iconPath=
+         alphaComposite=1.0
+         useFontScaling=true
+      X1AxisLabel End
+      X2Axis Begin
+      X2Axis End
+      X2AxisTics Begin
+         fontSize=12
+         tinyFontSizw=8
+         minFontSize=8
+         maxFontSize=16
+         fontStyle=0
+         fontFamily=Dialog
+      X2AxisTics End
+      Y2AxisLabel Begin
+         text=null
+         fontSize=12
+         tinyFontSizw=8
+         minFontSize=8
+         maxFontSize=16
+         fontStyle=0
+         fontFamily=Dialog
+         textColor=black
+         align=1
+         rotation=90
+         space=2
+         drawBorder=false
+         showLabel=true
+         drawBackground=false
+         borderStyle=Solid
+         borderWeight=1.0
+         borderColor=null
+         backgroundColor=null
+         fillPattern=Solid
+         iconPath=
+         alphaComposite=1.0
+         useFontScaling=true
+      Y2AxisLabel End
+      Y2Axis Begin
+      Y2Axis End
+      Y2AxisTics Begin
+         fontSize=12
+         tinyFontSizw=8
+         minFontSize=8
+         maxFontSize=16
+         fontStyle=0
+         fontFamily=Dialog
+      Y2AxisTics End
+      hasXScroll=false
+      Viewport Begin
+         Glyph Begin
+            Line Begin
+               lineColor=red
+               lineWidth=2.0
+               enableQualityPoints=true
+               label=
+            Line End
+            Polygon Begin
+            Polygon End
+         Glyph End
+         Glyph Begin
+            Line Begin
+               lineColor=darkgreen
+               lineWidth=2.0
+               enableQualityPoints=true
+               label=
+            Line End
+            Polygon Begin
+            Polygon End
+         Glyph End
+         Glyph Begin
+            Line Begin
+               lineColor=darkGray
+               lineWidth=2.0
+               enableQualityPoints=true
+               label=
+            Line End
+            Polygon Begin
+            Polygon End
+         Glyph End
+         Glyph Begin
+            Line Begin
+               lineColor=magenta
+               lineWidth=2.0
+               enableQualityPoints=true
+               label=
+            Line End
+            Polygon Begin
+            Polygon End
+         Glyph End
+      Viewport End
+   Plot End
+   Plot Begin
+      row=2
+      hasX1Label=false
+      X1AxisLabel Begin
+         text=null
+         fontSize=12
+         tinyFontSizw=8
+         minFontSize=8
+         maxFontSize=16
+         fontStyle=0
+         fontFamily=Dialog
+         textColor=black
+         align=1
+         rotation=0
+         space=2
+         drawBorder=false
+         showLabel=true
+         drawBackground=false
+         borderStyle=Solid
+         borderWeight=1.0
+         borderColor=null
+         backgroundColor=null
+         fillPattern=Solid
+         iconPath=
+         alphaComposite=1.0
+         useFontScaling=true
+      X1AxisLabel End
+      X1Axis Begin
+         name=Minutes
+         label=Minutes
+         isDefaultLimits=false
+         min=6.116262E7
+         max=6.118278E7
+         majortic=1440.0
+         minortic=120.0
+         type=1
+         numTicLabelLayers=2
+         actmax=6.118278E7
+         actmin=6.116262E7
+         autoviewmax=false
+      X1Axis End
+      X1AxisTics Begin
+         fontSize=12
+         tinyFontSizw=8
+         minFontSize=8
+         maxFontSize=16
+         fontStyle=1
+         fontFamily=Dialog
+      X1AxisTics End
+      Y1AxisLabel Begin
+         text=Stor (1000 m3)
+         fontSize=15
+         tinyFontSizw=8
+         minFontSize=8
+         maxFontSize=16
+         fontStyle=1
+         fontFamily=Dialog
+         textColor=black
+         align=1
+         rotation=90
+         space=2
+         drawBorder=false
+         showLabel=true
+         drawBackground=false
+         borderStyle=Solid
+         borderWeight=1.0
+         borderColor=blue
+         backgroundColor=blue
+         fillPattern=Solid
+         iconPath=
+         alphaComposite=1.0
+         useFontScaling=true
+      Y1AxisLabel End
+      Y1Axis Begin
+         name=Stor (1000 m3)
+         label=Stor (1000 m3)
+         isDefaultLimits=false
+         min=800.0
+         max=3400.0
+         isReversed=true
+         majortic=500.0
+         minortic=100.0
+         actmax=3400.0
+         actmin=800.0
+      Y1Axis End
+      Y1AxisTics Begin
+         fontSize=12
+         tinyFontSizw=8
+         minFontSize=8
+         maxFontSize=16
+         fontStyle=0
+         fontFamily=Dialog
+      Y1AxisTics End
+      X1AxisLabel Begin
+         text=null
+         fontSize=12
+         tinyFontSizw=8
+         minFontSize=8
+         maxFontSize=16
+         fontStyle=0
+         fontFamily=Dialog
+         textColor=black
+         align=1
+         rotation=0
+         space=2
+         drawBorder=false
+         showLabel=true
+         drawBackground=false
+         borderStyle=Solid
+         borderWeight=1.0
+         borderColor=null
+         backgroundColor=null
+         fillPattern=Solid
+         iconPath=
+         alphaComposite=1.0
+         useFontScaling=true
+      X1AxisLabel End
+      X2Axis Begin
+      X2Axis End
+      X2AxisTics Begin
+         fontSize=12
+         tinyFontSizw=8
+         minFontSize=8
+         maxFontSize=16
+         fontStyle=0
+         fontFamily=Dialog
+      X2AxisTics End
+      Y2AxisLabel Begin
+         text=null
+         fontSize=12
+         tinyFontSizw=8
+         minFontSize=8
+         maxFontSize=16
+         fontStyle=0
+         fontFamily=Dialog
+         textColor=black
+         align=1
+         rotation=90
+         space=2
+         drawBorder=false
+         showLabel=true
+         drawBackground=false
+         borderStyle=Solid
+         borderWeight=1.0
+         borderColor=null
+         backgroundColor=null
+         fillPattern=Solid
+         iconPath=
+         alphaComposite=1.0
+         useFontScaling=true
+      Y2AxisLabel End
+      Y2Axis Begin
+      Y2Axis End
+      Y2AxisTics Begin
+         fontSize=12
+         tinyFontSizw=8
+         minFontSize=8
+         maxFontSize=16
+         fontStyle=0
+         fontFamily=Dialog
+      Y2AxisTics End
+      Viewport Begin
+         Glyph Begin
+            Line Begin
+               lineColor=orange
+               lineWidth=2.0
+               enableQualityPoints=true
+               label=
+            Line End
+            Polygon Begin
+            Polygon End
+         Glyph End
+      Viewport End
+   Plot End
+Panel End
